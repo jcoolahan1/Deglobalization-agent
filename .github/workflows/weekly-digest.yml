@@ -22,7 +22,11 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     steps:
+      # Always run against the latest main, even for re-runs of old workflow
+      # runs (which GitHub otherwise pins to a stale commit snapshot).
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -58,4 +62,6 @@ jobs:
           git config user.email "digest-bot@users.noreply.github.com"
           git add state/seen.json
           git diff --cached --quiet || git commit -m "chore: update seen-state after weekly digest"
-          git push
+          # Tolerate main having moved (e.g. a PR merged mid-run).
+          git pull --rebase origin main
+          git push origin main
