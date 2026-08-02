@@ -93,6 +93,8 @@ Everything lives in [`config.yaml`](config.yaml):
 
 - WSJ links may require your WSJ subscription login to read in full; the
   digest links to the articles, it does not republish content.
-- Scraped asset-manager pages expose no publish dates, so those items are
-  marked "undated" and included the first time they appear.
+- Scraped asset-manager listing pages expose no publish dates, so for
+  relevant items the agent opens the article page and reads the publish date
+  from its metadata, dropping anything older than `scraped_max_age_days`
+  (default 45 days). Items show as "undated" only when no date can be found.
 - Podcast links point at the public episode pages from each show's own feed.

@@ -12,7 +12,7 @@ import yaml
 
 from .digest import render_html, render_text
 from .emailer import send_email
-from .fetchers import fetch_source
+from .fetchers import fetch_page_date, fetch_source
 from .models import Item
 from .scoring import Scorer
 from .state import SeenState
@@ -22,7 +22,13 @@ log = logging.getLogger("deglob_agent")
 
 def curate(config: dict, state: SeenState) -> list[Item]:
     settings = config["digest"]
-    cutoff = datetime.now(timezone.utc) - timedelta(days=settings["lookback_days"])
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=settings["lookback_days"])
+    # Scraped listing pages carry no dates, so relevant items get their date
+    # looked up from the article page itself and are held to this looser
+    # window (asset managers publish monthly/quarterly, not daily).
+    scraped_cutoff = now - timedelta(days=settings.get("scraped_max_age_days", 45))
+    lookup_budget = settings.get("date_lookup_limit", 12)
     scorer = Scorer(config["keyword_groups"])
     per_source_cap = (
         settings["first_run_max_per_source"] if state.first_run
@@ -44,8 +50,21 @@ def curate(config: dict, state: SeenState) -> list[Item]:
             if item.score >= settings["min_score"]:
                 candidates.append(item)
         candidates.sort(key=lambda it: -it.score)
-        kept = candidates[:per_source_cap]
-        if len(candidates) > per_source_cap:
+
+        kept: list[Item] = []
+        lookups = 0
+        for item in candidates:
+            if len(kept) >= per_source_cap:
+                break
+            if item.published is None and lookups < lookup_budget:
+                lookups += 1
+                item.published = fetch_page_date(item.url)
+                if item.published is not None and item.published < scraped_cutoff:
+                    log.info("Dropping stale item (%s): %s",
+                             item.published.date(), item.title)
+                    continue
+            kept.append(item)
+        if len(candidates) > len(kept):
             log.info("%s: kept %d of %d relevant items", source["name"], len(kept), len(candidates))
         selected.extend(kept)
 
