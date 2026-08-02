@@ -1,0 +1,61 @@
+name: Weekly deglobalization digest
+
+on:
+  schedule:
+    # Mondays 12:00 UTC (07:00/08:00 ET depending on DST)
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no email, no state update)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build and send digest
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: |
+          EXTRA=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then EXTRA="--dry-run"; fi
+          python -m deglob_agent --output digest-preview.html $EXTRA
+
+      - name: Upload digest preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-preview
+          path: digest-preview.html
+          retention-days: 30
+
+      - name: Commit updated seen-state
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add state/seen.json
+          git diff --cached --quiet || git commit -m "chore: update seen-state after weekly digest"
+          git push
