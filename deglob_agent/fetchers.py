@@ -133,6 +133,53 @@ def _fetch_html_links(source: dict) -> list[Item]:
     return items
 
 
+# Ordered most-reliable first: structured metadata, then <time> tags, then
+# visible date text ("31 July 2026" / "July 31, 2026").
+_MONTHS = ("January|February|March|April|May|June|July|August|September|"
+           "October|November|December")
+_DATE_PATTERNS = [
+    r'(?:article:published_time|datePublished|publishDate|publish_date)["\']?\s*(?:content=|:)\s*["\']([^"\']+)',
+    r'<time[^>]*datetime="([^"]+)"',
+    rf'((?:{_MONTHS})\s+\d{{1,2}},?\s+20\d\d)',
+    rf'(\d{{1,2}}\s+(?:{_MONTHS})\s+20\d\d)',
+]
+
+
+def _parse_date(raw: str) -> datetime | None:
+    raw = raw.strip().replace(",", "")
+    try:
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+    except ValueError:
+        pass
+    for fmt in ("%B %d %Y", "%d %B %Y", "%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+    return None
+
+
+def fetch_page_date(url: str) -> datetime | None:
+    """Fetch an article page and extract its publication date, if any.
+
+    Used to backfill dates for items scraped from listing pages that expose
+    none, so the recency filter can apply to them too.
+    """
+    try:
+        page = _get(url).text
+    except Exception:
+        log.warning("Date lookup failed for %s", url)
+        return None
+    for pattern in _DATE_PATTERNS:
+        match = re.search(pattern, page)
+        if match:
+            parsed = _parse_date(match.group(1))
+            if parsed:
+                return parsed
+    return None
+
+
 def _fetch_jpmam_json(source: dict) -> list[Item]:
     """J.P. Morgan Asset Management AEM editorial-listing JSON endpoint."""
     data = _get(source["url"]).json()

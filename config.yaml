@@ -11,9 +11,15 @@
 
 digest:
   # Items with a publish date are included only if published within this
-  # many days of the run. Undated items (most scraped pages) are included
-  # the first time they are seen.
+  # many days of the run.
   lookback_days: 8
+  # Scraped listing pages (asset manager sites) expose no dates, so for
+  # relevant items the agent fetches the article page and reads the publish
+  # date from it. Items older than this are dropped; the window is looser
+  # than lookback_days because asset managers publish monthly/quarterly.
+  scraped_max_age_days: 45
+  # Max article-page date lookups per source per run (keeps runs fast).
+  date_lookup_limit: 12
   # Minimum relevance score for an item to make the digest (see scoring below).
   min_score: 3
   # Caps to keep the email readable.
