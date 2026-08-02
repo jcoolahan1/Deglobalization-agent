@@ -10,6 +10,10 @@ on:
         description: "Dry run (no email, no state update)"
         type: boolean
         default: false
+      force_send:
+        description: "Test send: email the current window even if already sent"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -46,6 +50,7 @@ jobs:
         run: |
           EXTRA=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then EXTRA="--dry-run"; fi
+          if [ "${{ inputs.force_send }}" = "true" ]; then EXTRA="$EXTRA --force-resend"; fi
           python -m deglob_agent --output digest-preview.html $EXTRA
 
       - name: Upload digest preview artifact
@@ -56,7 +61,7 @@ jobs:
           retention-days: 30
 
       - name: Commit updated seen-state
-        if: ${{ inputs.dry_run != true }}
+        if: ${{ inputs.dry_run != true && inputs.force_send != true }}
         run: |
           git config user.name "digest-bot"
           git config user.email "digest-bot@users.noreply.github.com"

@@ -20,7 +20,7 @@ from .state import SeenState
 log = logging.getLogger("deglob_agent")
 
 
-def curate(config: dict, state: SeenState) -> list[Item]:
+def curate(config: dict, state: SeenState, ignore_seen: bool = False) -> list[Item]:
     settings = config["digest"]
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=settings["lookback_days"])
@@ -39,7 +39,7 @@ def curate(config: dict, state: SeenState) -> list[Item]:
     for source in config["sources"]:
         candidates = []
         for item in fetch_source(source):
-            if state.is_seen(item.key):
+            if state.is_seen(item.key) and not ignore_seen:
                 continue
             if item.published is not None and item.published < cutoff:
                 # Old dated items are skipped but not marked seen, in case a
@@ -79,6 +79,9 @@ def main() -> int:
                         help="Do not send email and do not update seen-state")
     parser.add_argument("--no-email", action="store_true",
                         help="Update seen-state but skip sending (e.g. to seed state)")
+    parser.add_argument("--force-resend", action="store_true",
+                        help="Ignore sent history and email a full digest of the "
+                             "current window (test mode; seen-state is not updated)")
     parser.add_argument("--output", metavar="FILE",
                         help="Also write the HTML digest to FILE")
     args = parser.parse_args()
@@ -90,7 +93,7 @@ def main() -> int:
     if state.first_run:
         log.info("First run: no seen-state file yet, capping undated sources")
 
-    items = curate(config, state)
+    items = curate(config, state, ignore_seen=args.force_resend)
     log.info("Curated %d items for the digest", len(items))
 
     group_order = [g["label"] for g in
@@ -110,6 +113,8 @@ def main() -> int:
     if items and not args.no_email:
         subject = (f"{config['digest']['subject_prefix']} — "
                    f"{datetime.now(timezone.utc):%b %d, %Y} ({len(items)} links)")
+        if args.force_resend:
+            subject += " [test resend]"
         send_email(subject, html_body, text_body)
         log.info("Email sent")
         for item in items:
@@ -119,7 +124,10 @@ def main() -> int:
     else:
         log.info("--no-email: seen-state updated, email skipped")
 
-    state.save()
+    if args.force_resend:
+        log.info("Force resend: seen-state left unchanged")
+    else:
+        state.save()
     return 0
 
 
