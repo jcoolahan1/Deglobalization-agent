@@ -1319,6 +1319,11 @@
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-ai-is-not-a-democratic-technology-10066747/"
  },
+ "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-anthropic-what-comes-after-ai-s-first-wave-10066925": {
+  "first_seen": "2026-11-23T23:21:40+00:00",
+  "sent": false,
+  "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-anthropic-what-comes-after-ai-s-first-wave-10066925/"
+ },
  "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-brazilian-equities-beyond-the-ballot-box-10066599": {
   "first_seen": "2026-11-09T21:54:28+00:00",
   "sent": false,
@@ -1389,10 +1394,20 @@
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-global-alpha-insights-the-ai-investment-boom-10066862/"
  },
+ "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-high-growth-biotechs-making-big-bets-10066915": {
+  "first_seen": "2026-11-23T23:21:40+00:00",
+  "sent": false,
+  "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-high-growth-biotechs-making-big-bets-10066915/"
+ },
  "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-international-viewpoints-endurance-in-a-changing-world-10066153": {
   "first_seen": "2026-10-12T20:52:26+00:00",
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-international-viewpoints-endurance-in-a-changing-world-10066153/"
+ },
+ "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-international-viewpoints-finding-longevity-in-luxury-10066823": {
+  "first_seen": "2026-11-23T23:21:40+00:00",
+  "sent": false,
+  "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-international-viewpoints-finding-longevity-in-luxury-10066823/"
  },
  "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-ltgg-reflections-lam-and-alnylam-10066146": {
   "first_seen": "2026-10-12T20:52:26+00:00",
@@ -1408,6 +1423,11 @@
   "first_seen": "2026-11-02T21:21:59+00:00",
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-quick-take-conversations-with-private-companies-vinted-10066509/"
+ },
+ "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-the-art-of-actual-investing-in-asia-10066828": {
+  "first_seen": "2026-11-23T23:21:40+00:00",
+  "sent": false,
+  "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-the-art-of-actual-investing-in-asia-10066828/"
  },
  "bailliegifford.com/en/usa/institutional-investor/insights/ic-article/2026-q4-trading-cash-flows-for-compute-10066751": {
   "first_seen": "2026-11-09T21:54:28+00:00",
@@ -1438,6 +1458,11 @@
   "first_seen": "2026-08-02T18:53:49+00:00",
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-document/2025-q1-positive-change-a-review-of-2024-10053062/"
+ },
+ "bailliegifford.com/en/usa/institutional-investor/insights/ic-document/2025-q2-ltgg-stewardship-report-2024-10044803": {
+  "first_seen": "2026-11-23T23:21:40+00:00",
+  "sent": false,
+  "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-document/2025-q2-ltgg-stewardship-report-2024-10044803/"
  },
  "bailliegifford.com/en/usa/institutional-investor/insights/ic-document/old-style-sheqs-a-case-for-growth-10001142": {
   "first_seen": "2026-09-28T19:12:35+00:00",
@@ -2399,6 +2424,21 @@
   "sent": false,
   "url": "https://www.bailliegifford.com/en/usa/institutional-investor/insights/ic-video/strategy-films-positive-change-10060193/"
  },
+ "columbiathreadneedle.com/en/gb/institutional/insights/2027-equity-outlook-a-broader-foundation-for-growth": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/2027-equity-outlook-a-broader-foundation-for-growth/"
+ },
+ "columbiathreadneedle.com/en/gb/institutional/insights/2027-fixed-income-outlook-putting-higher-rates-to-work": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/2027-fixed-income-outlook-putting-higher-rates-to-work/"
+ },
+ "columbiathreadneedle.com/en/gb/institutional/insights/2027-macroeconomic-outlook-testing-the-limits-of-resilience": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/2027-macroeconomic-outlook-testing-the-limits-of-resilience/"
+ },
  "columbiathreadneedle.com/en/gb/institutional/insights/ai-bond-supply-why-the-market-can-absorb-the-coming-wave": {
   "first_seen": "2026-10-26T18:11:51+00:00",
   "sent": false,
@@ -2453,6 +2493,11 @@
   "first_seen": "2026-09-14T17:38:13+00:00",
   "sent": false,
   "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/europe-better-momentum-but-structural-hurdles-remain/"
+ },
+ "columbiathreadneedle.com/en/gb/institutional/insights/europe-renewed-momentum-improving-prospects": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/europe-renewed-momentum-improving-prospects/"
  },
  "columbiathreadneedle.com/en/gb/institutional/insights/europes-industrial-revolution-brings-new-growth-opportunities": {
   "first_seen": "2026-08-02T18:53:49+00:00",
@@ -2559,6 +2604,11 @@
   "sent": false,
   "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/in-credit-weekly-snapshot-the-real-thing/"
  },
+ "columbiathreadneedle.com/en/gb/institutional/insights/in-credit-weekly-snapshot-three-is-the-magic-number": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/in-credit-weekly-snapshot-three-is-the-magic-number/"
+ },
  "columbiathreadneedle.com/en/gb/institutional/insights/ldi-market-review-and-outlook-august-2026-plus-ca-change-plus-cest-la-meme-chose": {
   "first_seen": "2026-09-07T12:11:55+00:00",
   "sent": false,
@@ -2583,6 +2633,11 @@
   "first_seen": "2026-11-09T21:54:27+00:00",
   "sent": false,
   "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/market-perspectives-making-sense-of-the-midterms/"
+ },
+ "columbiathreadneedle.com/en/gb/institutional/insights/market-perspectives-postcard-from-madrid-is-pedro-sanchezs-reign-in-spain-about-to-end": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/market-perspectives-postcard-from-madrid-is-pedro-sanchezs-reign-in-spain-about-to-end/"
  },
  "columbiathreadneedle.com/en/gb/institutional/insights/market-perspectives-second-guessing-the-central-banks": {
   "first_seen": "2026-09-14T17:38:13+00:00",
@@ -2684,6 +2739,11 @@
   "sent": false,
   "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/the-case-for-uk-retail-parks/"
  },
+ "columbiathreadneedle.com/en/gb/institutional/insights/the-consistency-premium-in-active-management": {
+  "first_seen": "2026-11-23T23:21:37+00:00",
+  "sent": false,
+  "url": "https://www.columbiathreadneedle.com/en/gb/institutional/insights/the-consistency-premium-in-active-management/"
+ },
  "columbiathreadneedle.com/en/gb/institutional/insights/the-uk-the-path-from-squeeze-to-spending": {
   "first_seen": "2026-11-02T21:21:59+00:00",
   "sent": false,
@@ -2739,6 +2799,11 @@
   "sent": false,
   "url": "https://www.mfs.com/en-us/investment-professional/insights/market-insights.html"
  },
+ "mfs.com/en-us/investment-professional/insights/market-insights/market-pulse.html": {
+  "first_seen": "2026-11-23T23:21:33+00:00",
+  "sent": false,
+  "url": "https://www.mfs.com/en-us/investment-professional/insights/market-insights/market-pulse.html"
+ },
  "mfs.com/en-us/investment-professional/insights/market-insights/week-in-review.html": {
   "first_seen": "2026-08-02T18:53:46+00:00",
   "sent": false,
@@ -2758,6 +2823,11 @@
   "first_seen": "2026-08-02T18:53:46+00:00",
   "sent": false,
   "url": "https://www.mfs.com/en-us/investment-professional/insights/sustainability.html"
+ },
+ "mfs.com/en-us/investment-professional/mfs-podcasts/sustainable-investing/investing-future-cybersecurity.html": {
+  "first_seen": "2026-11-23T23:21:33+00:00",
+  "sent": false,
+  "url": "https://www.mfs.com/en-us/investment-professional/mfs-podcasts/sustainable-investing/investing-future-cybersecurity.html"
  },
  "omny.fm/shows/odd-lots/102926-odd-lots-alex-altmann-mixdown": {
   "first_seen": "2026-11-02T21:21:52+00:00",
@@ -2839,15 +2909,30 @@
   "sent": true,
   "url": "https://omny.fm/shows/odd-lots/how-a-sardine-gets-from-the-ocean-to-a-can"
  },
+ "omny.fm/shows/odd-lots/how-ai-is-forcing-china-to-reshape-industrial-policy": {
+  "first_seen": "2026-11-23T23:21:29+00:00",
+  "sent": true,
+  "url": "https://omny.fm/shows/odd-lots/how-ai-is-forcing-china-to-reshape-industrial-policy"
+ },
  "omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics": {
   "first_seen": "2026-10-12T20:52:18+00:00",
   "sent": false,
   "url": "https://omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics"
  },
+ "omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models": {
+  "first_seen": "2026-11-23T23:21:29+00:00",
+  "sent": false,
+  "url": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models"
+ },
  "omny.fm/shows/odd-lots/how-financial-advisors-can-grow-during-the-great-wealth-transfer-sponsored-content": {
   "first_seen": "2026-08-02T18:53:39+00:00",
   "sent": false,
   "url": "https://omny.fm/shows/odd-lots/how-financial-advisors-can-grow-during-the-great-wealth-transfer-sponsored-content"
+ },
+ "omny.fm/shows/odd-lots/how-gta-vi-became-the-most-expensive-video-game-ever-made": {
+  "first_seen": "2026-11-23T23:21:29+00:00",
+  "sent": false,
+  "url": "https://omny.fm/shows/odd-lots/how-gta-vi-became-the-most-expensive-video-game-ever-made"
  },
  "omny.fm/shows/odd-lots/how-la-is-quietly-becoming-americas-new-industrial-tech-hub": {
   "first_seen": "2026-09-21T17:50:14+00:00",
@@ -2989,10 +3074,20 @@
   "sent": false,
   "url": "https://omny.fm/shows/odd-lots/this-is-how-new-york-city-takes-out-its-trash"
  },
+ "omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart": {
+  "first_seen": "2026-11-23T23:21:29+00:00",
+  "sent": false,
+  "url": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart"
+ },
  "omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it": {
   "first_seen": "2026-08-17T13:56:02+00:00",
   "sent": true,
   "url": "https://omny.fm/shows/odd-lots/trucking-is-booming-again-and-drivers-arent-happy-about-it"
+ },
+ "omny.fm/shows/odd-lots/what-a-town-full-of-vibecoders-says-about-the-chinese-economy": {
+  "first_seen": "2026-11-23T23:21:29+00:00",
+  "sent": false,
+  "url": "https://omny.fm/shows/odd-lots/what-a-town-full-of-vibecoders-says-about-the-chinese-economy"
  },
  "omny.fm/shows/odd-lots/what-everyone-gets-wrong-about-the-economic-problems-in-europe": {
   "first_seen": "2026-10-12T20:52:18+00:00",
@@ -3088,6 +3183,11 @@
   "first_seen": "2026-09-21T17:50:19+00:00",
   "sent": false,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/audio-and-webcasts/webcasts/alternatives-access-defensive-real-estate-today-the-net-lease-playbook"
+ },
+ "privatebank.jpmorgan.com/nam/en/insights/audio-and-webcasts/webcasts/alternatives-access-demystifying-the-middle-market": {
+  "first_seen": "2026-11-23T23:21:32+00:00",
+  "sent": false,
+  "url": "https://privatebank.jpmorgan.com/nam/en/insights/audio-and-webcasts/webcasts/alternatives-access-demystifying-the-middle-market"
  },
  "privatebank.jpmorgan.com/nam/en/insights/audio-and-webcasts/webcasts/alternatives-access-the-case-for-private-investing-in-asia": {
   "first_seen": "2026-09-07T12:11:53+00:00",
@@ -3304,6 +3404,11 @@
   "sent": false,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/outlook"
  },
+ "privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/outlook/2027-outlook-pbexchange": {
+  "first_seen": "2026-11-23T23:21:32+00:00",
+  "sent": false,
+  "url": "https://privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/outlook/2027-outlook-pbexchange"
+ },
  "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing": {
   "first_seen": "2026-08-02T18:53:45+00:00",
   "sent": false,
@@ -3333,6 +3438,11 @@
   "first_seen": "2026-10-12T20:52:23+00:00",
   "sent": true,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/beyond-the-shine-beware-of-gold-scams"
+ },
+ "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/broadening-growth-and-diversification-alternatives-for-the-decade-ahead": {
+  "first_seen": "2026-11-23T23:21:32+00:00",
+  "sent": false,
+  "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/broadening-growth-and-diversification-alternatives-for-the-decade-ahead"
  },
  "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/building-a-resilient-portfolio": {
   "first_seen": "2026-08-02T18:53:45+00:00",
@@ -3969,6 +4079,11 @@
   "sent": false,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/market-thoughts/life-moves-pretty-fast"
  },
+ "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/market-thoughts/market-whac-a-mole": {
+  "first_seen": "2026-11-23T23:21:32+00:00",
+  "sent": false,
+  "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/market-thoughts/market-whac-a-mole"
+ },
  "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/market-thoughts/off-ramps-you-talking-to-me": {
   "first_seen": "2026-08-02T18:53:45+00:00",
   "sent": false,
@@ -4178,6 +4293,11 @@
   "first_seen": "2026-08-24T14:26:03+00:00",
   "sent": false,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/from-tokyo-to-london-to-washington-debt-is-in-the-doghouse"
+ },
+ "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/funding-ai-ipos-are-sending-a-new-signal": {
+  "first_seen": "2026-11-23T23:21:32+00:00",
+  "sent": false,
+  "url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/funding-ai-ipos-are-sending-a-new-signal"
  },
  "privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/tmt/how-tech-became-everything-to-everyone": {
   "first_seen": "2026-08-02T18:53:45+00:00",
@@ -4649,6 +4769,11 @@
   "sent": false,
   "url": "https://privatebank.jpmorgan.com/nam/en/insights/wealth-planning/your-house-may-be-spying-on-you-save-yourself"
  },
+ "wsj.com/articles/a-new-figure-emerges-in-the-nvidia-chip-smuggling-saga-c62265ce": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/articles/a-new-figure-emerges-in-the-nvidia-chip-smuggling-saga-c62265ce?mod=rss_worldnews"
+ },
  "wsj.com/articles/ai-dating-apps-love-b594c091": {
   "first_seen": "2026-08-03T18:26:40+00:00",
   "sent": false,
@@ -4694,6 +4819,11 @@
   "sent": true,
   "url": "https://www.wsj.com/articles/european-ttf-gas-up-5-on-hormuz-shipping-concerns-82eb7f35?mod=rss_markets_main"
  },
+ "wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/articles/five-urgent-questions-in-dc-about-jensen-huangs-return-as-nvidia-ceo-5d35aee6?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/articles/four-things-to-watch-as-power-changes-hands-in-congress-46a1864d": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -4718,6 +4848,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/articles/how-mastercards-ceo-stays-in-front-of-change-f54f2ce8?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/articles/how-the-realreals-ceo-learned-to-orchestrate-ce099bdb": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -4788,6 +4923,11 @@
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
   "url": "https://www.wsj.com/articles/news-quiz-for-september-26-2026-a7a91784?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-a6b49914?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/articles/nvidia-ceo-discloses-affair-board-launches-probe-over-chinese-spy-fears-c5d08af5": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -4879,6 +5019,11 @@
   "sent": false,
   "url": "https://www.wsj.com/articles/when-ai-is-your-second-transformation-a0037715?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/articles/why-ken-chenault-is-calling-for-an-ai-manifesto-7eab1b51?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/articles/wsj-opinion-meet-joe-bidens-new-entitlement-state-2021-07-04": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -4969,6 +5114,11 @@
   "sent": false,
   "url": "https://www.wsj.com/arts-culture/television/freefall-a-reckoning-for-boeing-review-the-cost-of-cutting-corners-on-netflix-ea5a8edf?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/a-former-pharmacists-875-million-startup-deal-went-toxic-fast-was-it-a-buy-and-kill-a65e5855?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/a-reined-in-jensen-huang-is-nvidias-best-option-e79cb305": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -5049,6 +5199,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/airlines/chinas-biggest-airlines-post-over-1-billion-loss-in-first-half-as-fuel-shock-bites-3deb78fe?mod=rss_worldnews"
  },
+ "wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/airlines/delta-delays-plans-for-nonstop-service-to-saudi-arabia-ba1f6446": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -5058,6 +5213,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/airlines/dubai-airport-traffic-falls-but-shows-signs-of-recovery-amid-iran-war-e415ae82?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/airlines/dubai-airport-traffic-falls-in-second-quarter-but-recovery-builds-through-june-1fd76fee": {
   "first_seen": "2026-08-31T12:05:26+00:00",
@@ -5073,6 +5233,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/airlines/faa-plans-antennas-communications-fixes-after-incident-with-helicopter-carrying-trump-e25d7767": {
   "first_seen": "2026-08-17T13:56:00+00:00",
@@ -5119,6 +5284,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/airlines/joby-says-it-completed-first-fully-autonomous-flight-across-the-u-s-cec71190?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/airlines/lufthansa-to-cut-1-000-jobs-at-flagship-airline-as-challenges-mount-a710ff68?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/airlines/miami-crash-puts-focus-on-houston-astros-owners-cargo-jet-business-a9e2eb31": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -5128,6 +5298,11 @@
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/airlines/one-airlines-frantic-race-to-avoid-a-ground-stop-meltdown-7b63904f?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/airlines/qantas-plans-nonstop-sydney-new-york-flights-4ad93572": {
   "first_seen": "2026-09-28T19:12:18+00:00",
@@ -5379,6 +5554,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/autos/bentley-tests-bumpy-ev-market-with-230-000-suv-18985b11?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/autos/byds-shares-fall-after-dutch-court-bars-sales-of-ti7-suv-model-in-eu-f18ff808": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/autos/byds-shares-fall-after-dutch-court-bars-sales-of-ti7-suv-model-in-eu-f18ff808?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/autos/canada-auto-workers-talks-with-stellantis-hit-impasse-over-future-of-ontario-factory-union-says-fd212a55": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -5504,6 +5684,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/autos/honda-to-invest-3-billion-in-new-ohio-plant-to-boost-hybrid-vehicle-production-4b2c7bc6?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/autos/how-mercedes-benz-nearly-became-collateral-damage-in-a-chinese-car-ban-4101cd7f?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/autos/hyundais-union-launches-first-full-day-strike-in-decade-495086ac": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
@@ -5513,6 +5698,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/autos/in-a-large-used-car-market-carmax-and-carvana-clash-over-how-americans-buy-9c94147f?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/autos/mary-barra-transformed-gm-her-successor-may-have-to-do-it-again-aca050e9?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/autos/nhtsa-expands-investigation-into-gm-braking-system-c92725c5": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -5654,10 +5844,20 @@
   "sent": false,
   "url": "https://www.wsj.com/business/autos/war-is-helping-chinese-evs-upend-the-global-car-market-b1b7ea57?mod=rss_markets_main"
  },
+ "wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/autos/waymo-restricts-freeway-operations-after-california-ban-3da802ad?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702": {
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/autos/what-teslas-flying-roadster-really-means-for-the-global-auto-race-0ede8702?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/autos/who-will-succeed-mary-barra-as-gms-next-ceo-a-look-at-three-candidates-1aaeaa17?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/autos/why-tesla-is-pulling-the-plug-on-cybertruck-b6c2f97b": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -5739,6 +5939,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d3493e8c?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-d9c78f9e?mod=rss_markets_main"
+ },
  "wsj.com/business/basic-materials-roundup-market-talk-f98efba2": {
   "first_seen": "2026-09-21T17:50:11+00:00",
   "sent": false,
@@ -5813,6 +6018,11 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/c-suite/mattel-names-peter-griffith-chief-financial-officer-replacing-paul-ruh-3e449a98?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/c-suite/paypal-appoints-xero-finance-chief-claire-bramley-as-next-cfo-cba4a93f?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/c-suite/polariss-cfo-wants-to-restart-buybacks-after-a-tough-couple-of-years-afa0cd12": {
   "first_seen": "2026-11-02T21:21:50+00:00",
@@ -5899,6 +6109,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/deals/credit-agricole-proposes-merger-of-italian-business-with-banco-bpm-d77044a4?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/deals/danones-1-2-billion-huel-deal-gets-u-k-competition-clearance-ca76b73d": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
@@ -5933,6 +6148,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/deals/everbank-to-combine-with-wafd-to-create-75-billion-bank-e71d023c?mod=rss_markets_main"
+ },
+ "wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/deals/ingenia-communities-rejects-warburg-pincuss-improved-1-47-billion-takeover-offer-c36f1391": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -6003,6 +6223,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/deals/monte-dei-paschi-makes-40-billion-move-to-buy-italian-peers-banco-bpm-banca-generali-711620fd?mod=rss_markets_main"
+ },
+ "wsj.com/business/deals/monte-dei-paschis-board-sends-mixed-signals-over-intesas-37-billion-offer-e2e40d9a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/deals/monte-dei-paschis-board-sends-mixed-signals-over-intesas-37-billion-offer-e2e40d9a?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/deals/nielsen-to-buy-doubleverify-7dd13c40": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -6239,6 +6464,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/earnings/bilfinger-shares-fall-20-on-lowered-outlook-job-cuts-c843f681?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/bjs-wholesale-lifts-outlook-as-quarterly-profit-revenue-rise-afc86c3b?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/earnings/boeing-turnaround-shows-progress-but-commercial-unit-sputters-6b3e2e05": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -6344,6 +6574,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/earnings/gamestop-expects-higher-profit-despite-lower-sales-9fceb2a2?mod=rss_markets_main"
  },
+ "wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/earnings/germanys-merck-raises-guidance-again-on-growth-across-units-3f6cfb03": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -6353,6 +6588,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/earnings/gilead-sciences-swings-to-loss-on-r-d-costs-as-hiv-drug-sales-lift-revenue-2df8228a?mod=rss_Technology"
+ },
+ "wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/earnings/hsbc-posts-sharply-higher-quarterly-profit-plans-1-bln-share-buyback-00845c03": {
   "first_seen": "2026-08-10T15:32:15+00:00",
@@ -6373,6 +6613,16 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/earnings/intuit-forecasts-slower-growth-takes-steps-to-win-more-turbotax-users-6633b7dc?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/intuit-to-sell-mailchimp-for-3-68-billion-33f03f9c?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/earnings/kroger-cuts-sales-view-due-to-macro-challenges-4adac3e8": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -6594,6 +6844,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/earnings/tyson-foods-tsn-q3-earnings-report-stock-2026-0ec3ff4b?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/earnings/ubisoft-logs-strong-bookings-as-players-welcome-assassins-creed-remake-372081c1?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/earnings/ubs-plans-new-3-billion-buyback-after-net-profit-rises-d2d4fca9": {
   "first_seen": "2026-08-02T18:53:36+00:00",
   "sent": false,
@@ -6669,6 +6924,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/energy-oil/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-66b2675a?mod=rss_worldnews"
  },
+ "wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/energy-oil/adnoc-logistics-in-talks-to-buy-stake-in-hea-at-3-billion-valuation-c005541a": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -6698,6 +6958,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": true,
   "url": "https://www.wsj.com/business/energy-oil/china-free-batteries-made-from-salt-are-finally-here-cc1cd766?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/energy-oil/conocophillips-to-sell-norwegian-business-to-var-energi-in-3-9-billion-deal-49db3ea2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/energy-oil/conocophillips-to-sell-norwegian-business-to-var-energi-in-3-9-billion-deal-49db3ea2?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/energy-oil/coreweave-finds-a-workaround-to-capital-constraintsfor-now-1f548211": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -6789,6 +7054,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030?mod=rss_markets_main"
  },
+ "wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=rss_markets_main"
+ },
  "wsj.com/business/energy-oil/oil-prices-fall-as-investors-weigh-u-s-iran-diplomacy-296e2847": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": true,
@@ -6878,6 +7148,11 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/energy-oil/star-oil-trader-who-made-wrong-way-bet-to-leave-vitol-6e190ee7?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/energy-oil/texas-pacific-land-to-buy-eaglerock-land-in-3-billion-all-stock-deal-643be79c?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/energy-oil/the-ipo-that-asks-you-to-buy-ai-hype-today-and-get-paid-years-later-1bd97731": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -6983,6 +7258,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-31b0c987?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/energy-utilities-roundup-market-talk-39f5dead": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-39f5dead?mod=rss_markets_main"
  },
  "wsj.com/business/energy-utilities-roundup-market-talk-5b4267ce": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -7149,6 +7429,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-319c8fd4?mod=rss_markets_main"
  },
+ "wsj.com/business/financial-services-roundup-market-talk-3af0bea5": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-3af0bea5?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/financial-services-roundup-market-talk-3d0f3342": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
@@ -7168,6 +7453,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-4d046ab3?mod=rss_markets_main"
+ },
+ "wsj.com/business/financial-services-roundup-market-talk-59d5ef65": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main"
  },
  "wsj.com/business/financial-services-roundup-market-talk-5f292e92": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -7318,6 +7608,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-cea218bb?mod=rss_Technology"
+ },
+ "wsj.com/business/health-care-roundup-market-talk-d350f360": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/health-care-roundup-market-talk-d350f360?mod=rss_markets_main"
  },
  "wsj.com/business/health-care-roundup-market-talk-e96665b7": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -7549,6 +7844,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/josh-kushner-lakers-deal-84fa6e67?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/kfc-is-moving-to-ditch-pepsi-for-coke-in-thousands-of-restaurants-cb44611d": {
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
@@ -7568,6 +7868,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/law-firms-retirement-incentives-packages-1e9bccbd?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/logistics/auto-transport-roundup-market-talk-9a2cf84b": {
   "first_seen": "2026-08-17T13:56:00+00:00",
@@ -7629,6 +7934,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/marubeni-favors-strong-yen-to-better-leverage-12-billion-investment-plan-0a360161?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/media/60-minutes-tries-to-move-past-months-of-turmoil-50247817?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/media/abcs-jimmy-kimmel-takes-aim-at-fcc-over-equal-time-rules-9d8fb619": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -7689,6 +7999,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/media/how-everyday-tiktokers-are-making-6-000-a-month-posting-stealth-ads-225d6f32?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/media/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-997dc4be": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/media/imax-to-show-super-bowl-lxi-in-theaters-through-partnership-with-disney-the-nfl-997dc4be?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/media/inside-north-koreas-operation-to-conquer-the-american-job-market-93729962": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -7703,6 +8018,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main"
  },
  "wsj.com/business/media/maria-bartiromo-out-at-fox-news-83dbb6ac": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -7824,6 +8144,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/media/spider-man-box-office-record-2026-3640f9fc?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/media/the-ai-change-that-let-pfizers-albert-bourla-sleep-better-51d371b2": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -7874,6 +8199,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/navy-deployment-in-middle-east-not-nearly-long-enough-trump-says-b6af0bac?mod=rss_markets_main"
  },
+ "wsj.com/business/nestles-ceo-sees-limits-to-recipe-reworks-amid-ultraprocessed-food-pushback-f02fb6ec": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/nestles-ceo-sees-limits-to-recipe-reworks-amid-ultraprocessed-food-pushback-f02fb6ec?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/new-rules-for-succeeding-at-work-success-331969f8": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -7894,10 +8224,25 @@
   "sent": false,
   "url": "https://www.wsj.com/business/nvidia-backed-cloud-startup-nscale-files-for-ipo-2622ca12?mod=rss_markets_main"
  },
+ "wsj.com/business/nvidia-jensen-huang-deals-8750daf4": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/nvidias-board-not-considering-reinstating-jensen-huang-as-ceo-a2b913b1?mod=rss_worldnews"
+ },
+ "wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main"
+ },
+ "wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/p-g-to-cut-up-to-30-of-product-supply-workers-amid-automation-push-8ca24808?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/pfizer-makes-an-unusual-enemy-in-2-billion-fight-over-unwanted-covid-19-vaccines-a5ad7c8d": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -8049,6 +8394,11 @@
   "sent": true,
   "url": "https://www.wsj.com/business/retail/is-dollar-general-charging-too-much-f8e8717f?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main"
+ },
  "wsj.com/business/retail/k-beauty-has-conquered-the-world-chinas-proya-wants-c-beauty-to-be-next-74c43e98": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -8083,6 +8433,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/retail/net-a-porter-luxury-online-retailer-personal-shopping-5cbf063e?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/retail/novartis-sees-sales-growth-through-2031-60d33957?mod=rss_Technology"
  },
  "wsj.com/business/retail/papa-johns-cuts-outlook-again-as-quarterly-sales-sink-789ef18c": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -8164,6 +8519,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/retail/why-so-many-shoppers-think-retailers-are-using-ai-to-jack-up-prices-d77cd4eb?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/retail/wonder-explores-sale-of-food-delivery-business-grubhub-3c80c830?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -8223,6 +8583,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-11ca1081?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/tech-media-telecom-roundup-market-talk-196a238a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-196a238a?mod=rss_markets_main"
  },
  "wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -8464,6 +8829,11 @@
   "sent": false,
   "url": "https://www.wsj.com/business/toddler-snack-recall-tests-organic-food-maker-once-upon-a-farm-02de7364?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main"
+ },
  "wsj.com/business/u-s-manufacturing-is-adding-jobs-again-but-the-hiring-rules-have-changed-29171127": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -8498,6 +8868,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/business/weil-gotshal-to-lose-top-dealmaker-and-five-other-partners-to-cravath-f79b5782?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/business/wendys-nelson-peltz-bid-activist-49d3a1ea?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/business/what-everybody-is-concerned-about-is-cyber-4f6ecf4e": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -8653,6 +9028,11 @@
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
   "url": "https://www.wsj.com/cfo-journal/how-might-companies-alter-financial-reporting-due-to-sec-rule-kpmg-survey-offers-clues-7ddec7fc?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/cfo-journal/how-southwest-target-and-at-t-finance-chiefs-think-about-the-human-in-the-loop-c2f175a1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/cfo-journal/how-southwest-target-and-at-t-finance-chiefs-think-about-the-human-in-the-loop-c2f175a1?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/cfo-journal/inside-lumens-c-suitea-ceo-and-cfo-who-clicked-immediately-20995c25": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -8859,6 +9239,11 @@
   "sent": false,
   "url": "https://www.wsj.com/cio-journal/jamie-dimon-tells-leaders-to-ramp-up-cyber-defenses-04ac235f?mod=rss_Technology"
  },
+ "wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/cio-journal/jensen-huang-upends-ai-outlook-once-again-b2bdb17d?mod=rss_Technology"
+ },
  "wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215": {
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
@@ -8888,6 +9273,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/cio-journal/ready-to-start-your-next-car-lease-with-an-ai-chatbot-bmw-wants-to-help-528cfef9?mod=rss_Technology"
+ },
+ "wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/cio-journal/the-best-boards-in-america-are-helping-drive-ai-strategy-5f020646": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -9034,6 +9424,11 @@
   "sent": false,
   "url": "https://www.wsj.com/cmo-today/the-curse-of-brand-safety-7f6224a8?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/cmo-today/the-dating-app-tapping-a24-to-keep-users-coming-back-for-more-49f63f8b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/cmo-today/the-dating-app-tapping-a24-to-keep-users-coming-back-for-more-49f63f8b?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/cmo-today/the-nfls-shrinkflation-era-leaves-youtube-paying-more-for-less-3ce196e0": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -9144,6 +9539,11 @@
   "sent": false,
   "url": "https://www.wsj.com/economy/central-banking/new-fed-report-on-svb-collapse-pins-blame-on-feds-own-regulators-9a3cb062?mod=rss_markets_main"
  },
+ "wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main"
+ },
  "wsj.com/economy/central-banking/scott-bessents-yen-trade-has-unintended-consequences-for-the-markets-5297044b": {
   "first_seen": "2026-08-10T15:32:15+00:00",
   "sent": false,
@@ -9158,6 +9558,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/economy/central-banking/u-k-inflation-jumps-again-on-energy-costs-e2bd9d85?mod=rss_worldnews"
+ },
+ "wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb?mod=rss_worldnews"
  },
  "wsj.com/economy/central-banking/u-s-factory-activity-expands-in-october-72c3b8bb": {
   "first_seen": "2026-11-02T21:21:50+00:00",
@@ -9279,6 +9684,11 @@
   "sent": false,
   "url": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main"
  },
+ "wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_markets_main"
+ },
  "wsj.com/economy/how-energy-is-driving-inflationand-how-its-not-50560f6e": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -9328,6 +9738,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=rss_worldnews"
+ },
+ "wsj.com/economy/trade/eu-inks-trade-deal-with-indonesia-to-cut-tariffs-catalyze-investment-9810d41f": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/economy/trade/eu-inks-trade-deal-with-indonesia-to-cut-tariffs-catalyze-investment-9810d41f?mod=rss_worldnews"
  },
  "wsj.com/economy/trade/german-industrial-production-contracts-on-auto-sector-woes-28c2390a": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -9469,6 +9884,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556?mod=rss_markets_main"
  },
+ "wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main"
+ },
  "wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -9579,6 +9999,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/banking/ubs-profit-climbs-as-wealth-management-inflows-increase-868e9b5f?mod=rss_markets_main"
  },
+ "wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=rss_markets_main"
+ },
  "wsj.com/finance/banking/visa-to-buy-fraud-defense-platform-biocatch-in-2-4-billion-deal-5e36f6e3": {
   "first_seen": "2026-08-03T18:26:40+00:00",
   "sent": false,
@@ -9659,6 +10084,11 @@
   "sent": true,
   "url": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-prospects-of-prolonged-lng-disruptions-82000fff?mod=rss_markets_main"
  },
+ "wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=rss_markets_main"
+ },
  "wsj.com/finance/commodities-futures/european-ttf-gas-is-back-above-100-euros-a-megawatt-hour-9e52f763": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": true,
@@ -9714,6 +10144,11 @@
   "sent": true,
   "url": "https://www.wsj.com/finance/commodities-futures/gold-flat-hovering-below-4-000-oz-fad3282f?mod=rss_markets_main"
  },
+ "wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87?mod=rss_markets_main"
+ },
  "wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-116a91ab": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": true,
@@ -9733,6 +10168,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": true,
   "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main"
+ },
+ "wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main"
  },
  "wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67": {
   "first_seen": "2026-08-03T18:26:40+00:00",
@@ -9809,6 +10249,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-for-easing-mideast-tensions-28ffdb0c?mod=rss_markets_main"
  },
+ "wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main"
+ },
  "wsj.com/finance/commodities-futures/oil-falls-on-hopes-that-russian-diesel-can-ease-global-fuel-shortages-db1651af": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -9878,6 +10323,11 @@
   "first_seen": "2026-08-10T15:32:15+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-doubts-over-strait-of-hormuzs-reopening-6e42507b?mod=rss_markets_main"
+ },
+ "wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/finance/commodities-futures/oil-rises-amid-renewed-fighting-in-middle-east-add7b187": {
   "first_seen": "2026-08-31T12:05:26+00:00",
@@ -9954,6 +10404,11 @@
   "sent": true,
   "url": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-to-start-the-week-4dbabb5c?mod=rss_markets_main"
  },
+ "wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/finance/currencies/5-billion-flurry-of-nearly-identical-kalshi-trades-draws-scrutiny-fa53289d": {
   "first_seen": "2026-09-28T19:12:17+00:00",
   "sent": false,
@@ -9999,6 +10454,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-before-fed-chairmans-fireside-chat-f4462ae4?mod=rss_markets_main"
  },
+ "wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main"
+ },
  "wsj.com/finance/currencies/asian-currencies-consolidate-but-haven-demand-for-dollar-may-weigh-a563ed11": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": true,
@@ -10009,10 +10469,25 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main"
  },
+ "wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main"
+ },
+ "wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main"
+ },
  "wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main"
+ },
+ "wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main"
  },
  "wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -10304,6 +10779,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-supported-by-lingering-risks-of-fx-intervention-45c3cccb?mod=rss_markets_main"
  },
+ "wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main"
+ },
  "wsj.com/finance/currencies/yen-mostly-edges-higher-as-traders-await-boj-himinos-speech-0d06acc5": {
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
@@ -10328,6 +10808,11 @@
   "first_seen": "2026-08-10T15:32:15+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/deal-or-no-deal-astrazeneca-stock-is-a-bargain-b9ce6b31?mod=rss_markets_main"
+ },
+ "wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main"
  },
  "wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -10403,6 +10888,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/investing/andreessen-horowitz-hardware-fund-ai-supply-chain-887774c5?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main"
  },
  "wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1": {
   "first_seen": "2026-11-02T21:21:50+00:00",
@@ -10614,10 +11104,20 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/investing/investors-trade-bond-yields-treasuries-60ee83f9?mod=rss_markets_main"
  },
+ "wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main"
+ },
  "wsj.com/finance/investing/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-9be40c51": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/investing/jane-street-suffers-loss-of-about-15-billion-due-to-troubles-at-situation-awareness-9be40c51?mod=rss_markets_main"
+ },
+ "wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main"
  },
  "wsj.com/finance/investing/kevin-warshs-honeymoon-with-the-bond-market-is-already-over-23bd0c6a": {
   "first_seen": "2026-08-02T18:53:36+00:00",
@@ -10864,6 +11364,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/investing/two-sigma-overdeck-divorce-siegel-d66db008?mod=rss_markets_main"
  },
+ "wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main"
+ },
  "wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994": {
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
@@ -10989,6 +11494,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/leopold-aschenbrenner-situational-awareness-ai-fund-597633d3?mod=rss_markets_main"
  },
+ "wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main"
+ },
  "wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -11033,6 +11543,11 @@
   "first_seen": "2026-10-19T18:18:00+00:00",
   "sent": true,
   "url": "https://www.wsj.com/finance/regulation/bank-of-america-to-pay-1-21-billion-to-settle-violations-of-money-laundering-sanctions-laws-203b5fdf?mod=rss_markets_main"
+ },
+ "wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/regulation/canadas-banking-regulator-moves-to-level-playing-field-for-smaller-lenders-b8c5eae6?mod=rss_markets_main"
  },
  "wsj.com/finance/regulation/cftc-proposes-to-expand-definition-of-swaps-to-include-prediction-markets-trading-289d54d9": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -11144,6 +11659,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/regulation/the-morning-risk-report-ubs-fined-125-million-over-alleged-aml-failures-fa2c6fd0?mod=rss_markets_main"
  },
+ "wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main"
+ },
  "wsj.com/finance/regulation/tokenized-stocks-get-u-s-regulators-green-light-to-come-ashore-c37d956f": {
   "first_seen": "2026-09-21T17:50:11+00:00",
   "sent": false,
@@ -11214,6 +11734,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c?mod=rss_markets_main"
  },
+ "wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main"
+ },
  "wsj.com/finance/stocks/apple-is-an-ai-safe-havenbut-safety-isnt-cheap-68fa76f6": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -11233,6 +11758,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/asian-equities-mostly-rebound-though-sentiment-remains-fragile-34b7cc83?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/asian-stocks-decline-as-appetite-for-risky-assets-ebbs-926087d6": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -11324,6 +11854,11 @@
   "sent": true,
   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main"
  },
+ "wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main"
+ },
  "wsj.com/finance/stocks/healthcare-investing-is-now-an-ai-short-in-disguise-104cb020": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -11354,6 +11889,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/how-to-tell-whether-a-plunging-stock-will-keep-plunging-bf0be3ed?mod=rss_markets_main"
  },
+ "wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main"
+ },
  "wsj.com/finance/stocks/inflation-comes-in-hot-edd23be2": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -11368,6 +11908,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/jensen-huangs-exit-will-test-ais-stocks-and-great-man-theory-3c4cd404?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/kevin-warshs-bear-steepener-is-no-goldilocks-moment-for-stocks-fdd33606": {
   "first_seen": "2026-08-02T18:53:36+00:00",
@@ -11398,6 +11943,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/netflix-stock-might-be-a-sleeper-hit-fd4bd2b1": {
   "first_seen": "2026-10-19T18:18:00+00:00",
@@ -11474,6 +12024,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-electronics-bank-stocks-d58297ff?mod=rss_markets_main"
  },
+ "wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main"
+ },
  "wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -11524,6 +12079,11 @@
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/ouras-ipo-reveals-high-growth-for-smart-ring-maker-9ce3e4c9?mod=rss_markets_main"
  },
+ "wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main"
+ },
  "wsj.com/finance/stocks/rates-climb-stocks-dip-after-strong-u-s-jobs-data-a71b1a23": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
@@ -11533,6 +12093,11 @@
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/s-p-500-logs-third-consecutive-weekly-gain-1b37e4d4?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/spacex-ipo-spv-investors-2698a174": {
   "first_seen": "2026-08-10T15:32:15+00:00",
@@ -11548,6 +12113,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/stock-futures-higher-oil-lower-as-investors-return-to-risk-17e79294?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -11618,6 +12188,11 @@
   "first_seen": "2026-10-19T18:18:00+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/stocks/the-ai-stock-market-wobble-is-a-reminder-this-time-isnt-different-d3ea7f07?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/the-buffett-indicator-keeps-flashing-red-is-it-broken-d5dd359e": {
   "first_seen": "2026-08-03T18:26:40+00:00",
@@ -11703,6 +12278,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": true,
   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-prices-hit-five-month-high-a800db83?mod=rss_markets_main"
+ },
+ "wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main"
  },
  "wsj.com/finance/stocks/u-s-stocks-mixed-as-inflation-trepidation-offsets-ai-optimism-36053264": {
   "first_seen": "2026-09-21T17:50:11+00:00",
@@ -11838,6 +12418,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/finance/wall-street-pay-set-to-climb-after-volatile-markets-and-ipos-fuel-bank-profits-94fd9137?mod=rss_markets_main"
+ },
+ "wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/finance/wall-street-pledged-to-mobilize-500-billion-for-nvidiabut-hasnt-put-up-a-dime-1e41f276?mod=rss_markets_main"
  },
  "wsj.com/finance/walter-dodgers-lakers-investigation-3e114ef9": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -12003,6 +12588,11 @@
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
   "url": "https://www.wsj.com/health/this-startup-is-using-ai-to-fight-off-a-future-ai-pandemic-aceedf1b?mod=rss_Technology"
+ },
+ "wsj.com/health/wellness/a-new-documentary-shows-the-dangers-of-looksmaxxing-38dedbe9": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/health/wellness/a-new-documentary-shows-the-dangers-of-looksmaxxing-38dedbe9?mod=rss_Technology"
  },
  "wsj.com/health/wellness/blood-pressure-monitoring-rings-watches-98949dde": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -12214,6 +12804,11 @@
   "sent": false,
   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main"
  },
+ "wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main"
+ },
  "wsj.com/logistics-report/air-travel-halt-reverberates-as-probe-zeroes-in-on-a-router-in-arkansas-f1c2505a": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -12309,6 +12904,11 @@
   "sent": false,
   "url": "https://www.wsj.com/logistics-report/iran-struggles-to-shift-trade-to-land-from-sea-f7981496?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/logistics-report/labor-deal-fends-off-strike-threat-at-ports-of-l-a-long-beach-5d578a35?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/logistics-report/lineage-sues-solar-panel-company-contractor-over-l-a-warehouse-fire-799a66c1": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -12374,6 +12974,11 @@
   "sent": true,
   "url": "https://www.wsj.com/logistics-report/tariffs-on-metals-autos-mire-down-u-s-mexico-trade-talks-c1be20d2?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/logistics-report/tentative-deal-averts-strike-threat-at-busiest-u-s-ports-6f9a60d1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/logistics-report/tentative-deal-averts-strike-threat-at-busiest-u-s-ports-6f9a60d1?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/logistics-report/the-holiday-hiring-rush-is-moving-to-the-eleventh-hour-b0f3ea50": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -12428,6 +13033,11 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/logistics-report/uber-freight-ceo-targets-revenue-growth-and-investment-ahead-of-profit-for-now-21d01c59?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/logistics-report/union-pacific-ceo-apologizes-as-march-remark-fuels-opposition-to-merger-028c18ec?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/logistics-report/vietnams-factories-thrive-amid-trade-upheaval-8a127d00": {
   "first_seen": "2026-08-31T12:05:26+00:00",
@@ -12573,6 +13183,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/a-law-for-zohran-mamdani-7c4efd34?mod=rss_opinion"
+ },
+ "wsj.com/opinion/a-lesson-on-the-economics-of-tariff-leverage-ccb74d5c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/opinion/a-lesson-on-the-economics-of-tariff-leverage-ccb74d5c?mod=rss_opinion"
  },
  "wsj.com/opinion/a-lesson-on-wealth-taxes-from-charles-dickens-2ec708fe": {
   "first_seen": "2026-08-31T12:05:27+00:00",
@@ -12734,6 +13349,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/after-40-years-will-oregon-elect-a-republican-governor-c94fbbaa?mod=rss_opinion"
  },
+ "wsj.com/opinion/after-an-electoral-trouncing-conservatives-start-a-comeback-6f3efd48": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/after-an-electoral-trouncing-conservatives-start-a-comeback-6f3efd48?mod=rss_opinion"
+ },
  "wsj.com/opinion/against-china-americas-current-tumult-has-advantages-cdf2769b": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -12824,6 +13444,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/ai-splits-the-american-university-in-two-2d633630?mod=rss_Technology"
  },
+ "wsj.com/opinion/alan-milburn-report-u-k-youth-unemployment-52e6b3e6": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/alan-milburn-report-u-k-youth-unemployment-52e6b3e6?mod=rss_worldnews"
+ },
  "wsj.com/opinion/alaska-anwr-drilling-oil-democrats-dan-sullivan-mary-peltola-b9524031": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -12884,6 +13509,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/america-has-gone-wobbly-on-freedom-of-the-seas-d8686331?mod=rss_worldnews"
  },
+ "wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/america-hits-the-brakes-on-ai-84a63996?mod=rss_Technology"
+ },
  "wsj.com/opinion/america-is-approving-drugs-b6415288": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -12918,6 +13548,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/american-ai-regulation-is-exactly-what-china-wants-bba5d688?mod=rss_opinion"
+ },
+ "wsj.com/opinion/american-heroism-could-return-to-the-screen-52bcb9a9": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/american-heroism-could-return-to-the-screen-52bcb9a9?mod=rss_opinion"
  },
  "wsj.com/opinion/americans-are-getting-caught-in-the-safety-net-fed222f4": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -13019,6 +13654,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/an-nfl-tax-calculator-shows-the-big-hits-08b4bdc3?mod=rss_opinion"
  },
+ "wsj.com/opinion/anchors-aweigh-on-the-ss-united-states-db357c33": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/anchors-aweigh-on-the-ss-united-states-db357c33?mod=rss_worldnews"
+ },
  "wsj.com/opinion/ancient-greeces-greatness-was-built-on-trade-bfc5f3e3": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -13094,6 +13734,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_markets_main"
  },
+ "wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_opinion"
+ },
  "wsj.com/opinion/anthropic-isnt-the-end-of-man-c173e96f": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -13129,6 +13774,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/aocs-ideological-baggage-af040983?mod=rss_opinion"
  },
+ "wsj.com/opinion/apologizing-for-my-friend-vladimir-putin-trump-russia-904978e5": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/apologizing-for-my-friend-vladimir-putin-trump-russia-904978e5?mod=rss_opinion"
+ },
  "wsj.com/opinion/are-flock-cameras-so-bad-e106021e": {
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
@@ -13153,6 +13803,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/artificial-criticism-of-artificial-intelligence-83d794b3?mod=rss_Technology"
+ },
+ "wsj.com/opinion/artificial-intelligence-cant-replace-a-doctor-ba5192c4": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/artificial-intelligence-cant-replace-a-doctor-ba5192c4?mod=rss_Technology"
  },
  "wsj.com/opinion/ascendant-no-more-democrats-are-a-coalition-of-the-pathetic-50d7c6b9": {
   "first_seen": "2026-08-31T12:05:27+00:00",
@@ -13234,6 +13889,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/beware-a-democratic-senate-14c96e2c?mod=rss_opinion"
  },
+ "wsj.com/opinion/beware-of-conflicts-with-medical-platforms-286e6ca2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/beware-of-conflicts-with-medical-platforms-286e6ca2?mod=rss_opinion"
+ },
  "wsj.com/opinion/beware-the-coming-consumption-tax-storm-in-america-45d975de": {
   "first_seen": "2026-08-31T12:05:27+00:00",
   "sent": false,
@@ -13283,6 +13943,11 @@
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/bond-market-yields-rise-government-debt-b7941611?mod=rss_markets_main"
+ },
+ "wsj.com/opinion/bonfire-of-the-showboaters-c937ca07": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/bonfire-of-the-showboaters-c937ca07?mod=rss_opinion"
  },
  "wsj.com/opinion/bores-and-boors-in-the-white-house-3e58093b": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -13363,6 +14028,11 @@
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/burnham-cant-bet-on-a-trump-bullying-boost-68bf4fcc"
+ },
+ "wsj.com/opinion/buying-cheap-furniture-can-cost-you-more-9e27afe8": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/opinion/buying-cheap-furniture-can-cost-you-more-9e27afe8?mod=rss_opinion"
  },
  "wsj.com/opinion/california-autopia-electric-vehicles-disney-9ce69eb0": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -13494,6 +14164,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/cftcs-new-rules-for-crypto-a1314e87?mod=rss_markets_main"
  },
+ "wsj.com/opinion/chicago-cant-keep-a-cfo-mayor-brandon-johnson-913dd920": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/chicago-cant-keep-a-cfo-mayor-brandon-johnson-913dd920?mod=rss_opinion"
+ },
  "wsj.com/opinion/chicago-teachers-union-sues-defamation-illinois-policy-institute-764b4b1f": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
@@ -13529,6 +14204,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/chinese-drones-spies-and-honey-pots-0e87b656?mod=rss_worldnews"
  },
+ "wsj.com/opinion/chips-arent-a-magic-bullet-for-china-risks-772e6d4a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/chips-arent-a-magic-bullet-for-china-risks-772e6d4a?mod=rss_Technology"
+ },
  "wsj.com/opinion/christian-castro-indictment-ice-agent-minneapolis-c163fc9b": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -13558,6 +14238,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/climate-action-delivers-real-economic-benefits-for-cities-be2f007b?mod=rss_opinion"
+ },
+ "wsj.com/opinion/climate-conference-collapses-the-consensus-already-had-4228a87e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/climate-conference-collapses-the-consensus-already-had-4228a87e?mod=rss_opinion"
  },
  "wsj.com/opinion/climate-investment-is-economic-investment-304e2af3": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -13618,6 +14303,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/congress-is-failing-to-treat-lawmaking-as-a-serious-job-d5b7c98a?mod=rss_opinion"
+ },
+ "wsj.com/opinion/congress-section-702-fisa-national-security-7f982700": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/congress-section-702-fisa-national-security-7f982700?mod=rss_opinion"
  },
  "wsj.com/opinion/congressional-insider-trading-isnt-as-common-as-you-think-637d5563": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -14054,6 +14744,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/donald-trump-senate-filibuster-save-america-act-john-thune-0bdc42b6"
  },
+ "wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-nuclear-weapons-9c62a594": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/donald-trump-summit-xi-jinping-vladimir-putin-nuclear-weapons-9c62a594?mod=rss_opinion"
+ },
  "wsj.com/opinion/donald-trump-tariffs-michigan-canada-abdul-el-sayed-93ff5f22": {
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": true,
@@ -14159,6 +14854,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/dont-let-them-take-your-hard-earned-cash-268ccea0?mod=rss_opinion"
  },
+ "wsj.com/opinion/dont-privatize-air-transportation-modernize-5cbbe619": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/dont-privatize-air-transportation-modernize-5cbbe619?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/opinion/dont-punish-the-productive-11f69ce6": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -14224,6 +14924,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/el-sayeds-deflected-bigotry-25a4d05f?mod=rss_opinion"
  },
+ "wsj.com/opinion/elect-for-education-freedom-2c37e38f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/elect-for-education-freedom-2c37e38f?mod=rss_opinion"
+ },
  "wsj.com/opinion/elena-kagan-democracy-gerrymandering-district-maps-judges-d9e4adec": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -14278,6 +14983,11 @@
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/everyone-makes-mistakes-especially-pollsters-37ad0f12?mod=rss_opinion"
+ },
+ "wsj.com/opinion/extreme-poverty-is-a-thing-of-the-past-in-india-a6f7b0a9": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/extreme-poverty-is-a-thing-of-the-past-in-india-a6f7b0a9?mod=rss_opinion"
  },
  "wsj.com/opinion/extreme-weather-isnt-a-scientific-term-9bb5d517": {
   "first_seen": "2026-08-31T12:05:27+00:00",
@@ -14354,6 +15064,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/field-marshal-munir-and-the-pakistan-paradox-31236d99?mod=rss_opinion"
  },
+ "wsj.com/opinion/fight-the-everything-tax-59d79a11": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/fight-the-everything-tax-59d79a11?mod=rss_opinion"
+ },
  "wsj.com/opinion/filibuster-abuse-has-destroyed-senate-debate-69769c67": {
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
@@ -14413,6 +15128,11 @@
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/florida-where-wildlife-roams-free-and-so-do-you-294caa5a"
+ },
+ "wsj.com/opinion/follow-the-reagan-model-on-defense-spending-8033ce6b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/opinion/follow-the-reagan-model-on-defense-spending-8033ce6b?mod=rss_opinion"
  },
  "wsj.com/opinion/food-stamp-reform-gop-welfare-benefits-congress-63221a37": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -14544,6 +15264,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/georgia-makes-obamacare-less-irrational-150f4d08?mod=rss_opinion"
  },
+ "wsj.com/opinion/gerald-ford-thanksgiving-and-friendship-27d76a70": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/gerald-ford-thanksgiving-and-friendship-27d76a70?mod=rss_opinion"
+ },
  "wsj.com/opinion/geriatric-democrat-loses-to-a-moderate-969a9335": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -14553,6 +15278,16 @@
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/germany-leipzig-airport-drone-russia-nato-iran-1df66c1e?mod=rss_opinion"
+ },
+ "wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794?mod=rss_opinion"
+ },
+ "wsj.com/opinion/gettysburgs-main-oration-proved-an-easy-act-to-follow-5dcea729": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/gettysburgs-main-oration-proved-an-easy-act-to-follow-5dcea729?mod=rss_opinion"
  },
  "wsj.com/opinion/gilead-beats-the-plaintiff-bar-d1155a6f": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -14568,6 +15303,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/give-leery-towns-a-slice-of-the-data-center-pie-d3f3be53?mod=rss_Technology"
+ },
+ "wsj.com/opinion/give-thanks-to-inverse-billionaires-0a839607": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/give-thanks-to-inverse-billionaires-0a839607?mod=rss_markets_main"
  },
  "wsj.com/opinion/give-the-young-a-reason-to-believe-in-capitalism-7e2dc735": {
   "first_seen": "2026-08-31T12:05:27+00:00",
@@ -14609,6 +15349,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/government-funding-leads-to-government-interference-15700a9d?mod=rss_opinion"
  },
+ "wsj.com/opinion/government-gets-a-tax-windfall-from-anthropic-790b0571": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/government-gets-a-tax-windfall-from-anthropic-790b0571?mod=rss_markets_main"
+ },
  "wsj.com/opinion/government-money-secular-strings-f0f7baee": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -14629,6 +15374,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/graduate-student-loans-unions-lawsuit-education-department-ead7ccde?mod=rss_opinion"
  },
+ "wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/grand-theft-auto-take-two-microsoft-activision-blizzard-9839cecc?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/opinion/graveyards-link-to-history-ea25bff0": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -14638,6 +15388,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/grief-graveyards-and-the-soul-going-home-1457bfe0?mod=rss_opinion"
+ },
+ "wsj.com/opinion/guess-whos-coming-to-mecca-5a865bd3": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/guess-whos-coming-to-mecca-5a865bd3?mod=rss_opinion"
  },
  "wsj.com/opinion/haley-stevens-backs-a-hate-movement-by-endorsing-el-sayed-02bd064a": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -14764,6 +15519,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/hong-kong-five-year-plan-china-communists-1aee5f5c?mod=rss_opinion"
  },
+ "wsj.com/opinion/house-democrats-258-seats-congress-elections-4892aa7e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/house-democrats-258-seats-congress-elections-4892aa7e?mod=rss_opinion"
+ },
  "wsj.com/opinion/house-vote-supreme-court-nine-justices-democrats-jamie-raskin-9c47e2a1": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
@@ -14819,6 +15579,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/how-huge-is-the-lausd-ef8d8d8e?mod=rss_opinion"
  },
+ "wsj.com/opinion/how-i-survived-the-blue-tsunami-d1cf815b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/how-i-survived-the-blue-tsunami-d1cf815b?mod=rss_opinion"
+ },
  "wsj.com/opinion/how-many-government-rules-are-really-necessary-aa2dc619": {
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
@@ -14864,6 +15629,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/how-to-help-lower-diesel-costs-for-truckers-a3d76af8?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main"
+ },
  "wsj.com/opinion/how-to-lose-friends-and-alienate-allies-9927b7db": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -14873,6 +15643,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/how-to-make-a-jihadist-martyr-of-nidal-hasan-651da219?mod=rss_worldnews"
+ },
+ "wsj.com/opinion/how-to-protect-our-orphans-49870a9e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/how-to-protect-our-orphans-49870a9e?mod=rss_opinion"
  },
  "wsj.com/opinion/how-to-put-time-back-on-the-clock-in-iran-2eda585e": {
   "first_seen": "2026-09-28T19:12:18+00:00",
@@ -14999,6 +15774,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/inside-ukraines-drone-mission-control-room-78bf4223?mod=rss_opinion"
  },
+ "wsj.com/opinion/international-court-of-justice-genocide-definition-israel-1f650a2e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/international-court-of-justice-genocide-definition-israel-1f650a2e?mod=rss_opinion"
+ },
  "wsj.com/opinion/international-court-of-justice-genocide-definition-israel-7a92abd5": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -15014,10 +15794,20 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/international-law-vs-israel-0bec1fa6?mod=rss_opinion"
  },
+ "wsj.com/opinion/investors-cheer-return-of-the-chip-king-fc092103": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/investors-cheer-return-of-the-chip-king-fc092103?mod=rss_opinion"
+ },
  "wsj.com/opinion/iran-assassins-irgc-scott-bessent-john-bolton-1df4ef62": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/iran-assassins-irgc-scott-bessent-john-bolton-1df4ef62?mod=rss_opinion"
+ },
+ "wsj.com/opinion/iran-doubles-down-on-its-nuclear-ambitions-3d3ca7d3": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/iran-doubles-down-on-its-nuclear-ambitions-3d3ca7d3?mod=rss_opinion"
  },
  "wsj.com/opinion/iran-is-a-hedgehog-trump-is-a-fox-7f2cf112": {
   "first_seen": "2026-08-02T18:53:37+00:00",
@@ -15359,6 +16149,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/lafayette-remained-a-major-political-figure-late-in-life-0b1c93bb?mod=rss_opinion"
  },
+ "wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_markets_main"
+ },
  "wsj.com/opinion/latin-americas-coming-population-bust-9de07daa": {
   "first_seen": "2026-10-19T18:18:01+00:00",
   "sent": false,
@@ -15403,6 +16198,16 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/let-col-robert-gould-shaws-actions-speak-6b378da5?mod=rss_opinion"
+ },
+ "wsj.com/opinion/let-congress-keep-doing-its-job-with-the-faa-ab41517c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/let-congress-keep-doing-its-job-with-the-faa-ab41517c?mod=rss_opinion"
+ },
+ "wsj.com/opinion/let-me-keep-operating-dont-make-me-pay-285d7b98": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/let-me-keep-operating-dont-make-me-pay-285d7b98?mod=rss_opinion"
  },
  "wsj.com/opinion/let-others-eat-cake-c352917b": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -15529,6 +16334,11 @@
   "sent": true,
   "url": "https://www.wsj.com/opinion/marco-rubio-icc-sanctions-israel-u-s-72a540dc?mod=rss_opinion"
  },
+ "wsj.com/opinion/marco-rubio-is-hostage-to-a-failing-foreign-policy-d4ddaeca": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/marco-rubio-is-hostage-to-a-failing-foreign-policy-d4ddaeca?mod=rss_worldnews"
+ },
  "wsj.com/opinion/marco-rubio-the-birth-and-rebirth-of-western-civilization-4b9a108b": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -15618,6 +16428,11 @@
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/mayor-mamdanis-corporation-blame-game-cad9f59e?mod=rss_opinion"
+ },
+ "wsj.com/opinion/measles-status-vaccines-us-rfk-jr-640545a1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/measles-status-vaccines-us-rfk-jr-640545a1?mod=rss_opinion"
  },
  "wsj.com/opinion/measless-communal-risk-2f18035d": {
   "first_seen": "2026-08-02T18:53:37+00:00",
@@ -15829,6 +16644,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/my-name-more-or-less-4e8a3cbe?mod=rss_opinion"
  },
+ "wsj.com/opinion/my-oath-is-to-heal-not-kill-28b36fad": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/my-oath-is-to-heal-not-kill-28b36fad?mod=rss_opinion"
+ },
  "wsj.com/opinion/navi-pillay-nobel-peace-prize-israel-hamas-south-africa-523efb07": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -15878,6 +16698,11 @@
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/new-york-burglars-and-squatters-wanted-0e1be3d1"
+ },
+ "wsj.com/opinion/new-york-city-amazon-contractors-zohran-mamdani-julie-menin-60145c3e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/new-york-city-amazon-contractors-zohran-mamdani-julie-menin-60145c3e?mod=rss_opinion"
  },
  "wsj.com/opinion/new-york-citys-school-ai-ban-goes-too-far-71f74238": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -15934,6 +16759,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/nix-on-nixon-how-to-defeat-the-dsa-in-the-midterms-81e7e4dd?mod=rss_opinion"
  },
+ "wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/no-ai-company-is-too-big-to-fail-462bf066?mod=rss_opinion"
+ },
  "wsj.com/opinion/no-american-should-be-afraid-to-pray-08a31836": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -15963,6 +16793,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/nonprofits-rely-on-wealth-from-free-markets-1d4388ba?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/opinion/north-carolina-has-a-lesson-for-chris-christie-94089dbf": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/north-carolina-has-a-lesson-for-chris-christie-94089dbf?mod=rss_opinion"
  },
  "wsj.com/opinion/north-korea-is-a-u-s-threat-e17e9740": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -16009,6 +16844,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/notable-quotable-global-warming-and-sleep-3b6d8a6c"
  },
+ "wsj.com/opinion/notable-quotable-justice-alitos-warning-69707589": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/notable-quotable-justice-alitos-warning-69707589?mod=rss_opinion"
+ },
  "wsj.com/opinion/notable-quotable-lindsay-clancy-holdout-cebcf20c": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
@@ -16054,10 +16894,20 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/nuclear-era-lessons-for-ai-ed3f7e19?mod=rss_opinion"
  },
+ "wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/nvidia-jensen-huang-donald-trump-130e644c?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/nvidia-shows-the-limits-of-corporate-boards-761741a6?mod=rss_worldnews"
+ },
+ "wsj.com/opinion/nvidias-lesson-set-rules-before-a-crisis-d4ccc369": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/nvidias-lesson-set-rules-before-a-crisis-d4ccc369?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/opinion/obama-has-always-been-careful-with-words-443200e4": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -16103,6 +16953,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/opinion-of-u-s-schools-hits-a-new-low-defa3d37?mod=rss_opinion"
+ },
+ "wsj.com/opinion/opportunity-knocks-democrats-dont-answer-524cf611": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/opportunity-knocks-democrats-dont-answer-524cf611?mod=rss_opinion"
  },
  "wsj.com/opinion/our-cat-went-missing-then-she-landed-a-job-in-retail-3aa65662": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -16374,6 +17229,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/pepperand-salt-763fcef9?mod=rss_opinion"
  },
+ "wsj.com/opinion/pepperand-salt-76e8dd0e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/pepperand-salt-76e8dd0e?mod=rss_opinion"
+ },
  "wsj.com/opinion/pepperand-salt-7a45cc72": {
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
@@ -16388,6 +17248,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/pepperand-salt-82f91638?mod=rss_opinion"
+ },
+ "wsj.com/opinion/pepperand-salt-831ed781": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/pepperand-salt-831ed781?mod=rss_opinion"
  },
  "wsj.com/opinion/pepperand-salt-85e26c1e": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -16408,6 +17273,16 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/pepperand-salt-8bc8a663?mod=rss_opinion"
+ },
+ "wsj.com/opinion/pepperand-salt-8f260551": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/pepperand-salt-8f260551?mod=rss_opinion"
+ },
+ "wsj.com/opinion/pepperand-salt-9150f009": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/pepperand-salt-9150f009?mod=rss_opinion"
  },
  "wsj.com/opinion/pepperand-salt-92d9d861": {
   "first_seen": "2026-08-17T13:56:00+00:00",
@@ -16543,6 +17418,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/pepperand-salt-fe34d4c4?mod=rss_opinion"
+ },
+ "wsj.com/opinion/permitting-reform-bill-senate-congress-2b7f78eb": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/permitting-reform-bill-senate-congress-2b7f78eb?mod=rss_opinion"
  },
  "wsj.com/opinion/personalized-pricing-harms-american-consumers-overall-8fd8ac20": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -16824,6 +17704,16 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/roger-marshall-social-security-tax-85558cf1?mod=rss_opinion"
  },
+ "wsj.com/opinion/ron-johnson-social-security-unsustainable-2807cb1b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/ron-johnson-social-security-unsustainable-2807cb1b?mod=rss_opinion"
+ },
+ "wsj.com/opinion/rural-americans-deserve-a-seat-at-the-table-7e4bbebb": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/rural-americans-deserve-a-seat-at-the-table-7e4bbebb?mod=rss_opinion"
+ },
  "wsj.com/opinion/russia-arrests-japanese-journalist-yuki-imai-9e517bf3": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -16853,6 +17743,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/sam-altman-is-no-oppenheimer-d301b8a0?mod=rss_Technology"
+ },
+ "wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/sanctioning-people-for-building-homes-in-the-west-bank-47c51eb7?mod=rss_worldnews"
  },
  "wsj.com/opinion/sanctions-bill-passes-house-lindsey-graham-russia-ukraine-donald-trump-6f5522cb": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -17099,10 +17994,20 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/supreme-court-marquette-poll-public-opinion-b872e0ef?mod=rss_opinion"
  },
+ "wsj.com/opinion/surviving-the-new-york-city-swindlers-on-the-fdr-drive-e3796d87": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/surviving-the-new-york-city-swindlers-on-the-fdr-drive-e3796d87?mod=rss_opinion"
+ },
  "wsj.com/opinion/susie-wiles-takes-the-election-fall-9f5bf529": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/susie-wiles-takes-the-election-fall-9f5bf529?mod=rss_opinion"
+ },
+ "wsj.com/opinion/suspicion-of-the-measles-vaccine-has-to-stop-d7b37ed2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/suspicion-of-the-measles-vaccine-has-to-stop-d7b37ed2?mod=rss_opinion"
  },
  "wsj.com/opinion/syria-nuclear-iaea-rafael-grossi-uranium-ahmed-al-sharaa-2713e877": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -17124,6 +18029,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/talaricos-tall-tales-7832ae6f?mod=rss_opinion"
  },
+ "wsj.com/opinion/tales-from-a-city-of-thieves-656369ff": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/tales-from-a-city-of-thieves-656369ff?mod=rss_opinion"
+ },
  "wsj.com/opinion/tax-freedom-day-europe-vs-u-s-19748074": {
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
@@ -17143,6 +18053,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/tech-isnt-the-faas-biggest-problem-f94ed5b1?mod=rss_worldnews"
+ },
+ "wsj.com/opinion/tech-outages-panic-political-leaders-donald-trump-jd-vance-c356b10d": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/tech-outages-panic-political-leaders-donald-trump-jd-vance-c356b10d?mod=rss_opinion"
  },
  "wsj.com/opinion/tech-selloff-economy-politics-2e789982": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -17224,6 +18139,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-afds-rise-is-angela-merkels-legacy-15d277b0?mod=rss_worldnews"
  },
+ "wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-ai-correction-trade-arrives-d76f8636?mod=rss_Technology"
+ },
  "wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20": {
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
@@ -17258,6 +18178,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-art-of-the-self-deal-6cf57c5a?mod=rss_opinion"
+ },
+ "wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main"
  },
  "wsj.com/opinion/the-bar-for-involuntary-hospitalization-is-too-high-72d7b529": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -17454,6 +18379,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-factors-behind-the-great-republican-rout-3d15819c?mod=rss_opinion"
  },
+ "wsj.com/opinion/the-fate-of-jensen-huang-fa395bad": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-fate-of-jensen-huang-fa395bad?mod=rss_opinion"
+ },
  "wsj.com/opinion/the-fbi-raided-my-house-guns-drawn-over-a-peaceful-protest-a82f809b": {
   "first_seen": "2026-08-03T18:26:40+00:00",
   "sent": false,
@@ -17524,6 +18454,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-gop-collapse-in-the-states-2026-midterms-governors-state-legislatures-0b4373d7?mod=rss_opinion"
  },
+ "wsj.com/opinion/the-gop-ponders-its-purpose-48eb0acd": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-gop-ponders-its-purpose-48eb0acd?mod=rss_opinion"
+ },
  "wsj.com/opinion/the-gops-defeat-was-truly-massive-7dc3bd88": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -17549,10 +18484,20 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-gops-november-ethics-problem-833de577?mod=rss_opinion"
  },
+ "wsj.com/opinion/the-gops-post-trump-future-a45d325a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-gops-post-trump-future-a45d325a?mod=rss_opinion"
+ },
  "wsj.com/opinion/the-great-ai-slowdown-d5578546": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-great-ai-slowdown-d5578546?mod=rss_Technology"
+ },
+ "wsj.com/opinion/the-guatemalan-lawyer-who-beat-putin-59b34daa": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-guatemalan-lawyer-who-beat-putin-59b34daa?mod=rss_opinion"
  },
  "wsj.com/opinion/the-healthcare-systems-bad-payment-models-7801db06": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -17894,6 +18839,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-senate-race-in-michigan-b0236e88?mod=rss_opinion"
  },
+ "wsj.com/opinion/the-shakespearean-tragedy-of-king-donald-a588e1ed": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-shakespearean-tragedy-of-king-donald-a588e1ed?mod=rss_opinion"
+ },
  "wsj.com/opinion/the-sleight-of-hand-campus-economy-38c787aa": {
   "first_seen": "2026-08-31T12:05:27+00:00",
   "sent": false,
@@ -17988,6 +18938,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/the-u-s-isnt-ready-to-help-workers-through-the-ai-disruption-ea21ed9d?mod=rss_opinion"
+ },
+ "wsj.com/opinion/the-u-s-navy-needs-frigates-japan-has-one-638b75e2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/the-u-s-navy-needs-frigates-japan-has-one-638b75e2?mod=rss_opinion"
  },
  "wsj.com/opinion/the-u-s-needs-to-defeat-irans-irgc-3e425998": {
   "first_seen": "2026-09-28T19:12:18+00:00",
@@ -18094,6 +19049,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/theres-one-world-leader-we-can-all-look-up-to-b44c2bb9?mod=rss_worldnews"
  },
+ "wsj.com/opinion/this-election-proves-what-we-knew-on-race-43880b39": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/this-election-proves-what-we-knew-on-race-43880b39?mod=rss_opinion"
+ },
  "wsj.com/opinion/this-is-no-social-crisis-0cc11e99": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -18168,6 +19128,11 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/to-modernize-welfare-states-need-better-tools-1318b415?mod=rss_opinion"
+ },
+ "wsj.com/opinion/to-negotiate-with-putin-is-to-concede-defeat-aee5f1e2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/to-negotiate-with-putin-is-to-concede-defeat-aee5f1e2?mod=rss_opinion"
  },
  "wsj.com/opinion/to-russia-with-love-signed-donald-bffbcdc8": {
   "first_seen": "2026-10-19T18:18:01+00:00",
@@ -18253,6 +19218,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/trump-big-oil-and-too-much-money-12cac79a?mod=rss_opinion"
+ },
+ "wsj.com/opinion/trump-case-against-the-new-york-times-advances-d9a1962f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/trump-case-against-the-new-york-times-advances-d9a1962f?mod=rss_opinion"
  },
  "wsj.com/opinion/trump-discovers-his-inner-nixon-on-rock-concerts-c5ec084f": {
   "first_seen": "2026-08-31T12:05:26+00:00",
@@ -18394,6 +19364,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/trumps-failed-lawsuit-lesson-09da7e43?mod=rss_opinion"
  },
+ "wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/trumps-focus-moves-to-foreign-policy-a8004ad5?mod=rss_worldnews"
+ },
  "wsj.com/opinion/trumps-great-white-whale-canada-342d7e04": {
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
@@ -18494,6 +19469,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/ukraine-enlists-a-drone-for-a-pioneering-rescue-45749478?mod=rss_Technology"
  },
+ "wsj.com/opinion/ukraine-kerch-bridge-strike-vladimir-putin-russia-crimea-a58bdd6a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/ukraine-kerch-bridge-strike-vladimir-putin-russia-crimea-a58bdd6a?mod=rss_opinion"
+ },
  "wsj.com/opinion/ukraine-starlink-elon-musk-white-house-russia-e95ff7e6": {
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
@@ -18509,6 +19489,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/ukraines-4-d-chess-move-2f8c09d4?mod=rss_opinion"
  },
+ "wsj.com/opinion/ukraines-long-russian-war-6c14160f": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/ukraines-long-russian-war-6c14160f?mod=rss_opinion"
+ },
  "wsj.com/opinion/ukraines-new-defense-against-russian-drones-6e6c2945": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -18523,6 +19508,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/unaffordability-begins-with-government-c0b44e6a?mod=rss_opinion"
+ },
+ "wsj.com/opinion/understanding-sinclairs-law-and-racial-progress-d6ab52cd": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/understanding-sinclairs-law-and-racial-progress-d6ab52cd?mod=rss_opinion"
  },
  "wsj.com/opinion/understanding-the-broader-purpose-of-good-education-fdd734eb": {
   "first_seen": "2026-09-28T19:12:18+00:00",
@@ -18588,6 +19578,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/vivek-ramaswamys-battle-for-ohio-governor-9b5bc92c?mod=rss_opinion"
+ },
+ "wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/vladimir-putins-existential-fight-for-ukraine-5b9383b1?mod=rss_opinion"
  },
  "wsj.com/opinion/volodymyr-zelensky-starlink-deal-energy-targets-donald-trump-russia-ukraine-e313399d": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -18724,10 +19719,20 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/we-used-to-agree-no-icc-kidnapping-05af002d"
  },
+ "wsj.com/opinion/welcome-to-the-stephen-miller-presidency-d423c0d8": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/welcome-to-the-stephen-miller-presidency-d423c0d8?mod=rss_opinion"
+ },
  "wsj.com/opinion/were-winning-the-war-on-woke-25bca650": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/were-winning-the-war-on-woke-25bca650?mod=rss_opinion"
+ },
+ "wsj.com/opinion/west-virginia-lawsuit-solar-energy-john-mccuskey-5d14207b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/west-virginia-lawsuit-solar-energy-john-mccuskey-5d14207b?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/opinion/western-sahara-embraces-morocco-dff25f01": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -18743,6 +19748,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/what-are-u-s-soldiers-doing-in-ecuador-3c332b40?mod=rss_worldnews"
+ },
+ "wsj.com/opinion/what-corporate-america-needs-from-its-ceos-2f0c4cdb": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/what-corporate-america-needs-from-its-ceos-2f0c4cdb?mod=rss_opinion"
  },
  "wsj.com/opinion/what-democrats-care-about-in-the-midterms-7cda06f2": {
   "first_seen": "2026-08-17T13:56:00+00:00",
@@ -18803,6 +19813,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/what-jd-vance-gets-wrong-about-hamilton-b4eed1f1?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/what-napoleon-teaches-us-about-meritocracy-475118a4?mod=rss_worldnews"
  },
  "wsj.com/opinion/what-obamacare-was-meant-to-accomplish-2ccb7587": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -18989,6 +20004,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/why-britain-is-shedding-millionaires-c8c2b7cd?mod=rss_worldnews"
  },
+ "wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=rss_markets_main"
+ },
  "wsj.com/opinion/why-did-technologists-become-doomers-74308938": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -19044,6 +20064,11 @@
   "sent": false,
   "url": "https://www.wsj.com/opinion/will-andrew-cuomo-confront-his-own-partys-antisemitism-1b7dc1a1?mod=rss_worldnews"
  },
+ "wsj.com/opinion/will-campus-civics-programs-survive-the-blue-wave-ed7ecc1e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/will-campus-civics-programs-survive-the-blue-wave-ed7ecc1e?mod=rss_opinion"
+ },
  "wsj.com/opinion/will-obama-repeat-his-most-infamous-promise-00bc0d70": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -19068,6 +20093,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/opinion/will-trump-surprise-us-and-act-normal-this-time-cd45234c?mod=rss_opinion"
+ },
+ "wsj.com/opinion/william-mary-wawa-9e5ab768": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/opinion/william-mary-wawa-9e5ab768?mod=rss_opinion"
  },
  "wsj.com/opinion/windy-city-whistleblower-a3ad84d8": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -19218,6 +20248,11 @@
   "first_seen": "2026-09-21T17:50:11+00:00",
   "sent": false,
   "url": "https://www.wsj.com/personal-finance/mortgages/the-new-rules-for-selling-your-home-with-mortgage-rates-near-7-b4628469?mod=rss_markets_main"
+ },
+ "wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main"
  },
  "wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -19464,6 +20499,11 @@
   "sent": false,
   "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/its-the-war-stupid-trumps-next-steps-in-iran/0EF819A6-B414-4758-9763-5ADEDD40BAA1?mod=rss_opinion"
  },
+ "wsj.com/podcasts/opinion-potomac-watch/jensen-huang-returns-to-nvidia-after-donald-trumps-intervention/ebfca914-12fb-4d2b-97c5-ee0face42c11": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/jensen-huang-returns-to-nvidia-after-donald-trumps-intervention/EBFCA914-12FB-4D2B-97C5-EE0FACE42C11?mod=rss_opinion"
+ },
  "wsj.com/podcasts/opinion-potomac-watch/justice-elena-kagans-gerrymandering-fix-is-to-put-judges-in-charge/61a4f080-2914-4dd7-858a-17558f717ef1": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -19513,6 +20553,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/races-in-minnesota-and-michigan-may-decide-senate-control/1F9CBCD4-73DF-466B-8A1F-184B531248BD?mod=rss_opinion"
+ },
+ "wsj.com/podcasts/opinion-potomac-watch/ron-johnson-stirs-a-social-security-debate-why-the-us-has-measles-again/09cb9ea3-7bfc-4c69-a64f-7c141a0ac76b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/ron-johnson-stirs-a-social-security-debate-why-the-us-has-measles-again/09CB9EA3-7BFC-4C69-A64F-7C141A0AC76B?mod=rss_opinion"
  },
  "wsj.com/podcasts/opinion-potomac-watch/senate-candidates-debate-medicare-for-all-tariffs-iran-and-social-security/a54fe115-25f5-4db5-9801-2fe743cc39e8": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -19584,6 +20629,16 @@
   "sent": true,
   "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/trump-pauses-his-50-canada-tariffs-the-west-coast-refuels-under-a-jones-act-waiver/ED6FDE8A-BE2C-47B2-A948-B80619AEFD90?mod=rss_opinion"
  },
+ "wsj.com/podcasts/opinion-potomac-watch/trumps-nuclear-gambit-with-xi-and-putin/39c6a2c7-8843-4e12-be32-23dd6bee44a2": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/trumps-nuclear-gambit-with-xi-and-putin/39C6A2C7-8843-4E12-BE32-23DD6BEE44A2?mod=rss_opinion"
+ },
+ "wsj.com/podcasts/opinion-potomac-watch/what-the-anthropic-ipo-means-for-the-ai-future/f085f59f-00cc-4c5f-b88c-25606fa6f43b": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/what-the-anthropic-ipo-means-for-the-ai-future/F085F59F-00CC-4C5F-B88C-25606FA6F43B?mod=rss_opinion"
+ },
  "wsj.com/podcasts/opinion-potomac-watch/whats-on-trumps-agenda-with-xi/330b6d42-7940-4e1c-8d47-ce555adcdae2": {
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
@@ -19653,6 +20708,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9?mod=rss_worldnews"
+ },
+ "wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/politics/national-security/the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-0bc1bd4a?mod=rss_worldnews"
  },
  "wsj.com/politics/national-security/the-morning-risk-report-trumps-fraud-squad-is-hobbled-by-internal-strife-f9430bbe": {
   "first_seen": "2026-08-17T13:56:00+00:00",
@@ -19724,10 +20784,20 @@
   "sent": false,
   "url": "https://www.wsj.com/politics/policy/howard-lutnick-commerce-secretary-income-2d49acf3?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/politics/policy/jensen-huangs-return-to-nvidia-draws-heavy-fire-from-lawmakers-ae698d88?mod=rss_Technology"
+ },
  "wsj.com/politics/policy/justice-department-hits-pause-on-cooperation-with-canadian-government-da9d74e0": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/politics/policy/justice-department-hits-pause-on-cooperation-with-canadian-government-da9d74e0?mod=rss_worldnews"
+ },
+ "wsj.com/politics/policy/nvidia-ceo-trump-vance-jensen-huang-bdec91c3": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/politics/policy/nvidia-ceo-trump-vance-jensen-huang-bdec91c3?mod=rss_Technology"
  },
  "wsj.com/politics/policy/rfk-jr-american-food-ingredients-3f9d922b": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -19819,6 +20889,11 @@
   "sent": false,
   "url": "https://www.wsj.com/politics/young-people-see-a-different-america-than-older-people-where-do-you-fit-in-571f768c?mod=rss_markets_main"
  },
+ "wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/pro/bankruptcy/childrens-place-files-for-bankruptcy-with-plans-to-sell-assets-2ae70988": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -19873,6 +20948,11 @@
   "first_seen": "2026-10-19T18:18:01+00:00",
   "sent": false,
   "url": "https://www.wsj.com/pro/central-banking/bank-of-england-governor-says-too-early-to-make-call-on-second-round-inflation-91443098?mod=rss_worldnews"
+ },
+ "wsj.com/pro/central-banking/boes-bailey-sees-length-of-iran-war-as-key-to-rate-path-09d96fce": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-length-of-iran-war-as-key-to-rate-path-09d96fce?mod=rss_worldnews"
  },
  "wsj.com/pro/central-banking/boes-ramsden-sees-case-for-raising-key-rate-if-inflationary-pressures-build-6297ba77": {
   "first_seen": "2026-09-28T19:12:17+00:00",
@@ -19979,6 +21059,11 @@
   "sent": false,
   "url": "https://www.wsj.com/pro/venture-capital/ai-startup-wonderful-hits-5-billion-valuation-plans-1-000-strong-team-3d18bebe?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/pro/venture-capital/anthropics-ipo-is-a-win-for-venture-its-success-could-reshape-the-industry-2bfdecc0": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/pro/venture-capital/anthropics-ipo-is-a-win-for-venture-its-success-could-reshape-the-industry-2bfdecc0?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/pro/venture-capital/biotech-ipos-charge-ahead-as-tech-deals-stall-989b34b9": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -20068,6 +21153,11 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/real-estate/the-bruising-race-to-rent-in-san-francisco-goes-into-overdrive-45d2ffd0?mod=rss_Technology"
+ },
+ "wsj.com/risk-compliance-journal/fugitive-criminals-are-looking-for-new-hideouts-since-the-uae-started-extraditing-94e98eb1": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/risk-compliance-journal/fugitive-criminals-are-looking-for-new-hideouts-since-the-uae-started-extraditing-94e98eb1?mod=rss_worldnews"
  },
  "wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf": {
   "first_seen": "2026-10-19T18:18:00+00:00",
@@ -20434,6 +21524,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56?mod=rss_Technology"
  },
+ "wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology"
+ },
  "wsj.com/tech/ai/anthropic-ipo-dual-class-stock-founder-control-4c43a56d": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -20458,6 +21553,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?mod=rss_Technology"
+ },
+ "wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main"
  },
  "wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -20533,6 +21633,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/data-center-disenchantment-d63ea0b2?mod=rss_Technology"
+ },
+ "wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=rss_Technology"
  },
  "wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -20648,6 +21753,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?mod=pls_whats_news_us_business_f"
+ },
+ "wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main"
  },
  "wsj.com/tech/ai/jensen-huangs-downfall-14449f8a": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -20884,6 +21994,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/tech/ai/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-13143007": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/the-ai-build-out-is-sucking-up-resources-and-crowding-out-the-rest-of-the-economy-13143007?mod=rss_Technology"
+ },
  "wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
@@ -20959,6 +22074,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/the-week-everybody-started-talking-about-ai-doomsday-ab1fe116?mod=rss_Technology"
  },
+ "wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed?mod=pls_whats_news_us_business_f"
+ },
  "wsj.com/tech/ai/tom-brown-athropic-669005ad": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -21018,6 +22138,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/ai/what-ceos-can-learn-from-the-ai-backlash-5738590d?mod=rss_Technology"
+ },
+ "wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/ai/what-comes-next-after-anthropics-historic-ipo-464368c1?mod=rss_Technology"
  },
  "wsj.com/tech/ai/what-to-know-about-nvidias-investigation-after-ceos-affair-98df3bba": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -21164,6 +22289,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/businesses-are-spending-big-on-quantum-c73060ad?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/california-attorney-general-issues-investigative-subpoena-to-nvidia-097cea9e?mod=rss_markets_main"
+ },
  "wsj.com/tech/chinese-chip-maker-ymtc-seeks-4-9-billion-ipo-7e0e6daf": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": true,
@@ -21173,6 +22303,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1?mod=rss_worldnews"
+ },
+ "wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/cisco-openai-launch-project-to-safeguard-agentic-ai-f48e6420?mod=rss_Technology"
  },
  "wsj.com/tech/computer-makers-are-selling-fewer-pcs-at-higher-prices-so-far-its-working-af3b4202": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -21253,6 +22388,11 @@
   "first_seen": "2026-10-19T18:18:05+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/john-ternus-takes-next-big-swing-as-apple-ceo-with-homeview-tablet-39206e9e?mod=rss_Technology"
+ },
+ "wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_worldnews"
  },
  "wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -21364,6 +22504,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/personal-tech/can-fast-fashion-fit-into-secondhand-clothes-af2dc483?mod=pls_whats_news_us_business_f"
  },
+ "wsj.com/tech/personal-tech/cyber-scams-tech-outages-tips-a5500927": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/personal-tech/cyber-scams-tech-outages-tips-a5500927?mod=rss_Technology"
+ },
  "wsj.com/tech/personal-tech/home-security-cameras-paranormal-activity-0eb3862f": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -21399,6 +22544,11 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/personal-tech/new-iphone-duo-pro-shopping-guide-dc8555ad?mod=rss_Technology"
  },
+ "wsj.com/tech/personal-tech/new-york-city-public-bathroom-tour-4d544375": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/personal-tech/new-york-city-public-bathroom-tour-4d544375?mod=rss_Technology"
+ },
  "wsj.com/tech/personal-tech/on-billionaire-bunker-buying-a-mansion-is-easy-getting-into-the-club-isnt-f1bda8be": {
   "first_seen": "2026-08-17T13:56:00+00:00",
   "sent": false,
@@ -21419,10 +22569,25 @@
   "sent": false,
   "url": "https://www.wsj.com/tech/personal-tech/sextortion-scams-family-group-chats-537e8369?mod=rss_Technology"
  },
+ "wsj.com/tech/personal-tech/tech-gift-guide-holiday-2026-1a021f58": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/personal-tech/tech-gift-guide-holiday-2026-1a021f58?mod=rss_Technology"
+ },
+ "wsj.com/tech/personal-tech/the-drama-over-drone-delivery-e113b400": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/personal-tech/the-drama-over-drone-delivery-e113b400?mod=rss_Technology"
+ },
  "wsj.com/tech/personal-tech/the-new-rules-to-survive-and-thrive-at-work-b90be330": {
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/tech/personal-tech/the-new-rules-to-survive-and-thrive-at-work-b90be330?mod=rss_Technology"
+ },
+ "wsj.com/tech/personal-tech/watch-how-the-office-became-the-worst-place-to-actually-do-work-a47ac2df": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/personal-tech/watch-how-the-office-became-the-worst-place-to-actually-do-work-a47ac2df?mod=rss_Technology"
  },
  "wsj.com/tech/personal-tech/what-about-garmin-i-tested-the-companys-answer-to-whoop-837b71f2": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -21473,6 +22638,11 @@
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": true,
   "url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47?mod=rss_worldnews"
+ },
+ "wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=rss_Technology"
  },
  "wsj.com/tech/the-campaign-to-bring-back-jensen-huang-as-nvidia-ceo-e91b0b2c": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -21578,6 +22748,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
   "url": "https://www.wsj.com/us-news/ice-officer-indicted-after-allegedly-striking-fleeing-man-with-vehicle-80d6dba9?mod=rss_worldnews"
+ },
+ "wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/us-news/law/bayer-clears-major-roundup-hurdle-but-a-new-study-raises-cancer-link-again-15152a03?mod=pls_whats_news_us_business_f"
  },
  "wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe": {
   "first_seen": "2026-10-26T18:11:42+00:00",
@@ -21764,6 +22939,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/how-will-ohioans-vote-in-the-midterms/98CCE7AF-DD6C-4826-88E0-1E4C87B25D18?mod=rss_opinion"
  },
+ "wsj.com/video/is-everything-fast-fashion-now/a6982acc-fb88-4f3e-b97f-4ab96d5a17c3": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/is-everything-fast-fashion-now/A6982ACC-FB88-4F3E-B97F-4AB96D5A17C3?mod=rss_opinion"
+ },
  "wsj.com/video/is-nostalgia-for-the-past-misplaced/d9d17ad8-e35d-43ce-bf1d-615d45eeb6ec": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -21823,6 +23003,11 @@
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
   "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-anthony-fauci-not-so-dear-diaries/035AF76C-AC93-4C93-863A-7153DC50D5E9"
+ },
+ "wsj.com/video/series/journal-editorial-report/wsj-opinion-anthropics-record-breaking-ipo/e04e37fe-21a3-44ba-93e1-502a96e3576a": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-anthropics-record-breaking-ipo/E04E37FE-21A3-44BA-93E1-502A96E3576A?mod=rss_opinion"
  },
  "wsj.com/video/series/journal-editorial-report/wsj-opinion-are-democrats-losing-the-jewish-vote/786dca1b-adf0-497f-8092-5987d18989bd": {
   "first_seen": "2026-11-02T21:21:50+00:00",
@@ -21904,6 +23089,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-hits-and-misses-of-the-week/84D2EB31-67FC-4496-A947-358A48DD9A29?mod=rss_opinion"
  },
+ "wsj.com/video/series/journal-editorial-report/wsj-opinion-hits-and-misses-of-the-week/99078cce-5dce-49e4-91e0-ce2e6daada69": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-hits-and-misses-of-the-week/99078CCE-5DCE-49E4-91E0-CE2E6DAADA69?mod=rss_opinion"
+ },
  "wsj.com/video/series/journal-editorial-report/wsj-opinion-hits-and-misses-of-the-week/ac84e262-5965-4743-84db-3502c72563cb": {
   "first_seen": "2026-09-28T19:12:18+00:00",
   "sent": false,
@@ -21979,6 +23169,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-so-whos-going-to-win-the-midterms/DE8FA222-BD52-4E50-A1C3-35659D8A4F1D?mod=rss_opinion"
  },
+ "wsj.com/video/series/journal-editorial-report/wsj-opinion-tech-outages-raise-national-security-concerns/620953f7-0781-43cd-b53b-78649d2f135e": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-tech-outages-raise-national-security-concerns/620953F7-0781-43CD-B53B-78649D2F135E?mod=rss_opinion"
+ },
  "wsj.com/video/series/journal-editorial-report/wsj-opinion-the-ai-panic-comes-to-capitol-hill/035d0386-275a-43f8-a8e2-50ecc1ea7ec1": {
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
@@ -22003,6 +23198,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-the-democratic-dogs-catch-the-bus/B6EEF294-3DE6-4319-ABBE-C650AB0E4D70?mod=rss_opinion"
+ },
+ "wsj.com/video/series/journal-editorial-report/wsj-opinion-the-faa-ground-stop-blame-game/33e32fcb-013e-4471-84cc-fa71a7a5f287": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/series/journal-editorial-report/wsj-opinion-the-faa-ground-stop-blame-game/33E32FCB-013E-4471-84CC-FA71A7A5F287?mod=rss_opinion"
  },
  "wsj.com/video/series/journal-editorial-report/wsj-opinion-the-fallout-from-the-fall-of-jensen-huang/f0a0c7e2-7242-4958-b42f-b8ceaf9f7746": {
   "first_seen": "2026-11-16T21:37:08+00:00",
@@ -22149,6 +23349,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/the-lindsay-clancy-trial-and-the-widening-gap-between-men-and-women/B32666E1-3DF1-4534-99C4-9C33D014DF13?mod=rss_opinion"
  },
+ "wsj.com/video/the-west-leaves-free-speech-behind/d0518fcd-7e28-428f-8ea0-899294da1886": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/the-west-leaves-free-speech-behind/D0518FCD-7E28-428F-8EA0-899294DA1886?mod=rss_opinion"
+ },
  "wsj.com/video/this-is-the-last-chance-to-confirm-originalist-judges/afd67cf7-dfd9-4a1a-b4de-98bb6a32bdff": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -22169,6 +23374,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/wendell-berry-author-and-agrarian-dies-at-age-92/1E749510-16CD-45BB-AB88-F8B240352583?mod=rss_opinion"
  },
+ "wsj.com/video/what-happened-this-year-that-youre-grateful-for/c02401f1-2748-4de9-8d07-db4b4f3e9146": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/what-happened-this-year-that-youre-grateful-for/C02401F1-2748-4DE9-8D07-DB4B4F3E9146?mod=rss_opinion"
+ },
  "wsj.com/video/who-wants-to-be-a-victim-in-the-wild-west-bank/195b0c6c-191a-4f55-b5fb-ab95d6561206": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -22178,6 +23388,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/video/why-do-we-want-ai-friends/37102DFC-B606-4D1E-AA6A-2A89EE90FE26?mod=rss_opinion"
+ },
+ "wsj.com/video/why-i-want-to-keep-my-gas-stove/41c7c421-ff89-42b6-9cef-759cb956adbf": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/why-i-want-to-keep-my-gas-stove/41C7C421-FF89-42B6-9CEF-759CB956ADBF?mod=rss_opinion"
  },
  "wsj.com/video/wsj-opinion-a-bad-case-of-trump-derangement-syndrome/a3278743-7676-4c1a-befc-ce8a33135125": {
   "first_seen": "2026-09-28T19:12:18+00:00",
@@ -22209,6 +23424,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/wsj-opinion-beijing-turns-ai-against-tibetans-worldwide/50D3ADE6-9C34-46E4-A589-707917611968?mod=rss_opinion"
  },
+ "wsj.com/video/wsj-opinion-democrats-shouldnt-forget-why-they-won/7f3c7183-50c0-4bac-9856-de128f44c896": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/wsj-opinion-democrats-shouldnt-forget-why-they-won/7F3C7183-50C0-4BAC-9856-DE128F44C896?mod=rss_opinion"
+ },
  "wsj.com/video/wsj-opinion-democrats-wonnow-dont-blow-it/8f7cb47b-9885-4820-aeeb-4f3b1b3a83cf": {
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
@@ -22219,6 +23439,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/wsj-opinion-donald-trump-puts-himself-on-the-midterm-ballot/CF045DF5-47C9-4F4B-876E-915C84AA6188?mod=rss_opinion"
  },
+ "wsj.com/video/wsj-opinion-gig-work-is-good-work/c4bd38ea-cb0a-45f1-9a92-c99749af94c8": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/wsj-opinion-gig-work-is-good-work/C4BD38EA-CB0A-45F1-9A92-C99749AF94C8?mod=rss_opinion"
+ },
  "wsj.com/video/wsj-opinion-hits-and-misses-of-the-week/c49a650f-83a3-4c7f-91b8-5aa26658088d": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
@@ -22228,6 +23453,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/video/wsj-opinion-hostages-like-me-were-also-nazacollateral-damage/C9AF0282-D533-4FA5-893F-4CBAF17CC350?mod=rss_opinion"
+ },
+ "wsj.com/video/wsj-opinion-how-can-the-us-regain-measles-elimination-status/54a25fb2-381b-4030-bb0e-822bf33f6467": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/wsj-opinion-how-can-the-us-regain-measles-elimination-status/54A25FB2-381B-4030-BB0E-822BF33F6467?mod=rss_opinion"
  },
  "wsj.com/video/wsj-opinion-is-politics-still-local-in-new-england/468758a0-b781-4905-b135-de4eb1dc3f7d": {
   "first_seen": "2026-10-19T18:18:05+00:00",
@@ -22279,6 +23509,11 @@
   "sent": false,
   "url": "https://www.wsj.com/video/wsj-opinion-trump-vs-trump-the-final-act/BAC3D71A-7990-484A-BE1A-49D58CA20253?mod=rss_opinion"
  },
+ "wsj.com/video/wsj-opinion-us-china-asymmetry-amid-trumps-electoral-defeat-and-the-nvidia-crisis/6ebce250-af2e-4488-a063-e46e7c3631de": {
+  "first_seen": "2026-11-23T23:21:27+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/video/wsj-opinion-us-china-asymmetry-amid-trumps-electoral-defeat-and-the-nvidia-crisis/6EBCE250-AF2E-4488-A063-E46E7C3631DE?mod=rss_opinion"
+ },
  "wsj.com/video/wsj-opinion-what-do-you-do-with-the-site-of-an-atrocity/2ba6b829-6091-436c-995b-744a2b6ec516": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -22318,6 +23553,11 @@
   "first_seen": "2026-09-28T19:12:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/africa/a-four-year-truce-collapses-and-ethiopia-is-at-war-again-04087364?mod=rss_worldnews"
+ },
+ "wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/africa/a-hunger-crisis-is-making-ebola-even-deadlier-ef14c676?mod=rss_worldnews"
  },
  "wsj.com/world/africa/ebola-patient-boarded-commercial-flight-died-shortly-after-arrival-81690b60": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -22378,6 +23618,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/africa/trumps-deportation-deal-with-cameroon-will-equip-unit-accused-of-war-crimes-a94d3faa?mod=rss_worldnews"
+ },
+ "wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": true,
+  "url": "https://www.wsj.com/world/africa/u-s-consortium-wins-bid-to-prospect-at-62-billion-kenyan-rare-earth-deposit-5700b009?mod=rss_worldnews"
  },
  "wsj.com/world/africa/unpaid-ebola-workers-let-families-touch-the-dead-161351e3": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -22494,6 +23739,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/americas/cleveland-cliffs-braces-for-fight-as-canada-looks-to-block-layoffs-at-stelco-a8346d7a?mod=rss_worldnews"
  },
+ "wsj.com/world/americas/cocaine-gangs-batter-colombian-security-forces-in-wave-of-attacks-3f14fa2e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/cocaine-gangs-batter-colombian-security-forces-in-wave-of-attacks-3f14fa2e?mod=rss_worldnews"
+ },
  "wsj.com/world/americas/cocaine-smugglers-europe-speedboats-9bed7f31": {
   "first_seen": "2026-09-28T19:12:17+00:00",
   "sent": false,
@@ -22524,10 +23774,20 @@
   "sent": false,
   "url": "https://www.wsj.com/world/americas/cuba-throws-a-birthday-bash-for-fidel-as-his-legacy-lies-in-ruins-92389a0a?mod=rss_worldnews"
  },
+ "wsj.com/world/americas/drug-kingpins-capture-in-mexico-threatens-to-touch-off-bloody-succession-battle-8df2bff0": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/drug-kingpins-capture-in-mexico-threatens-to-touch-off-bloody-succession-battle-8df2bff0?mod=rss_worldnews"
+ },
  "wsj.com/world/americas/ecuador-drug-war-fishing-fd01dbd6": {
   "first_seen": "2026-09-28T19:12:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/americas/ecuador-drug-war-fishing-fd01dbd6?mod=rss_worldnews"
+ },
+ "wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78?mod=rss_worldnews"
  },
  "wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829": {
   "first_seen": "2026-11-02T21:21:50+00:00",
@@ -22564,10 +23824,20 @@
   "sent": false,
   "url": "https://www.wsj.com/world/americas/machados-return-offers-a-preview-of-venezuelas-next-electionwhenever-it-comes-2263ecb4?mod=rss_worldnews"
  },
+ "wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews"
+ },
  "wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/americas/mexican-governor-indicted-by-u-s-vows-return-to-office-fe6ecff7?mod=rss_worldnews"
+ },
+ "wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews"
  },
  "wsj.com/world/americas/mexico-sheinbaum-trump-administration-cartel-sanctions-ace4ef6f": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -22598,6 +23868,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/americas/she-fled-maduros-regime-washington-brought-her-back-to-negotiate-with-it-7c36c231?mod=rss_worldnews"
+ },
+ "wsj.com/world/americas/the-mass-exodus-making-cubas-economic-crisis-even-worse-6fed25bd": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/the-mass-exodus-making-cubas-economic-crisis-even-worse-6fed25bd?mod=rss_worldnews"
  },
  "wsj.com/world/americas/the-tiny-california-company-racing-into-venezuela-faster-than-big-oil-cfeb006f": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -22668,6 +23943,11 @@
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/americas/venezuelas-machado-returns-home-challenging-u-s-backed-government-7e3468e8?mod=rss_worldnews"
+ },
+ "wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews"
  },
  "wsj.com/world/asia/a-secretive-north-korean-pow-handover-becomes-publicand-controversial-228d9223": {
   "first_seen": "2026-09-28T19:12:17+00:00",
@@ -22754,6 +24034,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews"
  },
+ "wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews"
+ },
  "wsj.com/world/asia/kim-jong-un-remakes-north-koreas-flag-ditching-soviet-era-version-c65efcfe": {
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
@@ -22783,6 +24068,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/asia/north-korea-sends-women-to-russian-factories-in-line-of-ukrainian-fire-8d0477ed?mod=rss_worldnews"
+ },
+ "wsj.com/world/asia/north-koreas-kim-jong-un-welcomes-new-envoys-friendly-toward-us-8102b4aa": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/asia/north-koreas-kim-jong-un-welcomes-new-envoys-friendly-toward-us-8102b4aa?mod=rss_worldnews"
  },
  "wsj.com/world/asia/oil-prices-fed-on-bank-indonesias-radar-ahead-of-next-meeting-d196c146": {
   "first_seen": "2026-10-19T18:18:01+00:00",
@@ -22914,6 +24204,16 @@
   "sent": true,
   "url": "https://www.wsj.com/world/asia/will-taiwan-fight-china-just-ask-its-people-a6e358eb?mod=rss_worldnews"
  },
+ "wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews"
+ },
+ "wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/canada-and-china-draw-closer-with-expanded-trade-pact-b4566a38?mod=rss_worldnews"
+ },
  "wsj.com/world/china-economy-gen-z-f9058941": {
   "first_seen": "2026-10-19T18:18:01+00:00",
   "sent": false,
@@ -22943,6 +24243,11 @@
   "first_seen": "2026-09-14T17:38:02+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/china/a-u-s-scholar-was-invited-to-china-then-he-vanished-88c720af?mod=rss_worldnews"
+ },
+ "wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_worldnews"
  },
  "wsj.com/world/china/broken-china-review-a-mirage-of-growth-67fe6d8e": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -23068,6 +24373,16 @@
   "first_seen": "2026-08-10T15:32:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/china/in-china-moles-are-leaking-official-secrets-for-profit-94b156ac?mod=rss_worldnews"
+ },
+ "wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews"
+ },
+ "wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/china/inside-xi-jinpings-grip-on-power-ahead-of-trump-talks-e383e2fd?mod=rss_worldnews"
  },
  "wsj.com/world/china/justin-sun-jing-tian-bride-fee-5d83b7c5": {
   "first_seen": "2026-09-14T17:38:02+00:00",
@@ -23279,10 +24594,20 @@
   "sent": false,
   "url": "https://www.wsj.com/world/europe/eu-could-require-age-verification-to-stop-under-15s-opening-social-media-accounts-dc45c70a?mod=rss_worldnews"
  },
+ "wsj.com/world/europe/eu-probes-coca-cola-bottler-citing-antitrust-concerns-7717c957": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/europe/eu-probes-coca-cola-bottler-citing-antitrust-concerns-7717c957?mod=rss_worldnews"
+ },
  "wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/europe/europe-chastised-trumps-climate-rollback-now-its-delaying-its-own-green-goals-835b6724?mod=rss_worldnews"
+ },
+ "wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/europe/european-defense-chief-snaps-at-pentagon-official-over-ukraine-criticism-0f47f082?mod=rss_worldnews"
  },
  "wsj.com/world/europe/eus-internal-borders-start-to-harden-as-row-grows-over-migrants-d40a6ccd": {
   "first_seen": "2026-08-10T15:32:16+00:00",
@@ -23298,6 +24623,11 @@
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/europe/france-debt-bonds-spending-c7981557?mod=rss_worldnews"
+ },
+ "wsj.com/world/europe/france-riots-race-colorblind-1a87e24d": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews"
  },
  "wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -23444,6 +24774,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/europe/russia-pounds-ukrainian-energy-despite-trumps-ceasefire-announcement-f5d4779d?mod=rss_worldnews"
  },
+ "wsj.com/world/europe/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-a51964cb": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/europe/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-a51964cb?mod=rss_worldnews"
+ },
  "wsj.com/world/europe/serbias-gen-z-students-toppled-a-strongman-now-comes-the-hard-part-0f40dd7a": {
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
@@ -23498,6 +24833,11 @@
   "first_seen": "2026-11-09T21:54:16+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/europe/the-new-political-era-less-party-loyalty-big-election-swings-4cfa0ba1?mod=rss_worldnews"
+ },
+ "wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews"
  },
  "wsj.com/world/europe/the-summer-that-scorched-french-grapes-english-gardensand-europes-economy-a7b33771": {
   "first_seen": "2026-08-31T12:05:26+00:00",
@@ -23644,6 +24984,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/india/india-voter-list-purge-draws-growing-backlash-e54ec306?mod=rss_worldnews"
  },
+ "wsj.com/world/india/indian-man-sentenced-to-almost-20-years-in-murder-for-hire-plot-on-u-s-soil-cdeaf72a": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/india/indian-man-sentenced-to-almost-20-years-in-murder-for-hire-plot-on-u-s-soil-cdeaf72a?mod=rss_worldnews"
+ },
  "wsj.com/world/india/indian-nationalist-leader-stirs-anger-with-u-s-appearance-521e5a21": {
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
@@ -23663,6 +25008,11 @@
   "first_seen": "2026-08-31T12:05:26+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/india/young-women-bear-the-brunt-of-indias-anti-protester-vitriol-4b056b60?mod=rss_worldnews"
+ },
+ "wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b?mod=rss_worldnews"
  },
  "wsj.com/world/inside-the-uss-abraham-lincolns-nine-months-at-sea-loneliness-fatigue-pride-ec1961ca": {
   "first_seen": "2026-09-07T12:11:45+00:00",
@@ -23714,10 +25064,20 @@
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/egypt-warned-netanyahu-of-impending-attack-on-israel-before-oct-7-8e3d5ae0?mod=rss_worldnews"
  },
+ "wsj.com/world/middle-east/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-7d26ff20": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-7d26ff20?mod=rss_worldnews"
+ },
  "wsj.com/world/middle-east/gulf-states-pressed-trump-to-hold-off-on-iran-strikes-and-pursue-talks-03bcdb52": {
   "first_seen": "2026-08-02T18:53:37+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/gulf-states-pressed-trump-to-hold-off-on-iran-strikes-and-pursue-talks-03bcdb52"
+ },
+ "wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874?mod=rss_worldnews"
  },
  "wsj.com/world/middle-east/how-ai-is-reshaping-election-campaigns-in-israel-f5a2e79a": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -23728,6 +25088,11 @@
   "first_seen": "2026-11-02T21:21:50+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/how-the-journal-investigated-iran-damage-bases-18cbd9ee?mod=rss_worldnews"
+ },
+ "wsj.com/world/middle-east/how-the-myanmar-genocide-ruling-raises-the-stakes-for-israel-476feb2f": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/how-the-myanmar-genocide-ruling-raises-the-stakes-for-israel-476feb2f?mod=rss_worldnews"
  },
  "wsj.com/world/middle-east/hundreds-of-thousands-rally-in-iran-as-war-and-economy-squeeze-7dadb4d4": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -23743,6 +25108,11 @@
   "first_seen": "2026-11-16T21:37:08+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/iran-attacks-bahrain-as-conflict-escalates-62ffd1b3?mod=rss_worldnews"
+ },
+ "wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/iran-attacks-kuwait-and-bahrain-further-escalating-fight-over-strait-08f3a436?mod=rss_worldnews"
  },
  "wsj.com/world/middle-east/iran-backed-houthis-hit-saudi-capitals-airport-in-damaging-new-attack-d4c12236": {
   "first_seen": "2026-10-12T20:52:17+00:00",
@@ -23873,6 +25243,11 @@
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/israel-west-bank-settlers-violence-palestinians-359a69a8?mod=rss_worldnews"
+ },
+ "wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/israeli-spy-chief-pressed-for-renewed-iran-strikes-during-u-s-visit-3ba229d3?mod=rss_worldnews"
  },
  "wsj.com/world/middle-east/israels-economy-defied-three-years-of-war-now-the-bill-is-coming-due-49d171e1": {
   "first_seen": "2026-11-09T21:54:16+00:00",
@@ -24008,6 +25383,11 @@
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/middle-east/the-twin-sisters-facing-the-wrath-of-irans-crackdown-81adce68?mod=rss_worldnews"
+ },
+ "wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews"
  },
  "wsj.com/world/middle-east/the-u-s-is-burning-through-its-supply-of-interceptors-to-counter-irans-attacks-f42c5ecd": {
   "first_seen": "2026-09-21T17:50:12+00:00",
@@ -24314,6 +25694,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/russia/the-wild-history-of-the-russian-online-retail-giant-being-bombarded-by-ukraine-ea0bc57d?mod=rss_worldnews"
  },
+ "wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/russia/trump-xi-summit-shows-putins-powerful-friendships-have-their-limits-4fbd87ba?mod=rss_worldnews"
+ },
  "wsj.com/world/russia/u-s-escalates-pressure-on-russia-over-siberia-lab-death-6f61225a": {
   "first_seen": "2026-10-12T20:52:17+00:00",
   "sent": false,
@@ -24379,6 +25764,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/the-russia-ukraine-air-war-has-entered-a-new-deadlier-phase-6d15cce1?mod=rss_worldnews"
  },
+ "wsj.com/world/the-russian-exile-behind-the-missiles-that-helped-destroy-the-crimea-bridge-39adfa66": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/the-russian-exile-behind-the-missiles-that-helped-destroy-the-crimea-bridge-39adfa66?mod=rss_worldnews"
+ },
  "wsj.com/world/the-thai-town-hosting-the-uss-abraham-lincoln-after-a-grueling-deployment-f66e1962": {
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
@@ -24429,6 +25819,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/trump-speaks-repeatedly-with-warsh-departing-from-precedent-aaaa8741?mod=rss_Technology"
  },
+ "wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/trump-xi-and-putin-convene-first-ever-summit-as-world-order-shifts-82e58aab?mod=rss_worldnews"
+ },
  "wsj.com/world/trumps-greenland-deal-eases-way-for-u-s-business-on-arctic-island-1cbef960": {
   "first_seen": "2026-09-21T17:50:12+00:00",
   "sent": false,
@@ -24438,6 +25833,11 @@
   "first_seen": "2026-09-28T19:12:17+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/u-k-probes-possible-iran-link-to-suspected-terror-plot-at-base-hosting-u-s-forces-b2328fb2?mod=rss_worldnews"
+ },
+ "wsj.com/world/u-n-climate-talks-collapse-over-fossil-fuel-rift-c70ee620": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/u-n-climate-talks-collapse-over-fossil-fuel-rift-c70ee620?mod=rss_worldnews"
  },
  "wsj.com/world/u-s-debt-soars-and-scott-bessent-steps-in-as-americas-bond-trader-in-chief-41f04971": {
   "first_seen": "2026-08-24T14:25:54+00:00",
@@ -24458,6 +25858,11 @@
   "first_seen": "2026-10-19T18:18:01+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654?mod=rss_worldnews"
+ },
+ "wsj.com/world/uk/after-brexit-britains-government-floats-breturn-796e429f": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/uk/after-brexit-britains-government-floats-breturn-796e429f?mod=rss_worldnews"
  },
  "wsj.com/world/uk/boe-seen-on-hold-through-2027-despite-inflation-spike-b8ab6815": {
   "first_seen": "2026-08-02T18:53:37+00:00",
@@ -24584,6 +25989,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/uk/u-k-discovers-component-in-its-naval-drones-sent-signals-to-china-6ae60578?mod=rss_worldnews"
  },
+ "wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/uk/u-k-government-borrowed-more-in-october-but-is-on-track-for-smaller-deficit-f5209c71?mod=rss_worldnews"
+ },
  "wsj.com/world/uk/u-k-government-borrowing-rises-despite-record-income-tax-revenues-f669841f": {
   "first_seen": "2026-08-24T14:25:54+00:00",
   "sent": false,
@@ -24624,6 +26034,11 @@
   "sent": false,
   "url": "https://www.wsj.com/world/ukraine-fire-point-ceo-iryna-terekh-drones-d93ec97b?mod=rss_worldnews"
  },
+ "wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c?mod=rss_worldnews"
+ },
  "wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193": {
   "first_seen": "2026-10-26T18:11:42+00:00",
   "sent": false,
@@ -24638,6 +26053,11 @@
   "first_seen": "2026-09-07T12:11:45+00:00",
   "sent": false,
   "url": "https://www.wsj.com/world/ukraines-next-goal-is-to-shut-down-russias-commercial-airspace-6f9369d9?mod=rss_worldnews"
+ },
+ "wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1": {
+  "first_seen": "2026-11-23T23:21:26+00:00",
+  "sent": false,
+  "url": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1?mod=rss_worldnews"
  },
  "wsj.com/world/why-ukraine-is-ramping-up-its-aerial-war-against-russia-b46dba14": {
   "first_seen": "2026-08-24T14:25:54+00:00",
